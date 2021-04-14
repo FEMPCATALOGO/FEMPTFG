@@ -16,8 +16,6 @@
    <a href="https://leticiarubalcabadg.github.io/FEMAPAVISOS"><img src="Iconos/advertencia.png" alt="Avisos" width="150" /></a>&nbsp;&nbsp;    
    <a href="https://leticiarubalcabadg.github.io/FEMPBICICLETA"><img src="Iconos/bicicleta.png" alt="Bicicleta" width="150" /> </a> &nbsp;&nbsp; 
    <a href="https://leticiarubalcabadg.github.io/FEMPCALIDADAIRE"><img src="Iconos/vegano.png" alt="Calidad aire" width="150"/></a> &nbsp;&nbsp; 
-   <a href="https://leticiarubalcabadg.github.io/FEMPCALLEJERO"> <img src="Iconos/mapa-con-un-pequeno-simbolo-de-alfiler-dentro-de-un-circulo.png" alt="Callejero oficial" width="150"/> </a> &nbsp;&nbsp; &nbsp;
-   <a href="https://leticiarubalcabadg.github.io/FEMPCENSO"> <img src="Iconos/documentos.png" alt="Censo de locales" width="150" /> </a> &nbsp;&nbsp;
 </p>
 
 <p float="right" align="center">   
