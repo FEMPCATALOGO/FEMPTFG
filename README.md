@@ -3,13 +3,6 @@
 &nbsp; 
 &nbsp; 
 
-feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    
-{% include feature_row %}
 
 
 # Vocabularios organizados segun FEMP
@@ -18,7 +11,7 @@ feature_row:
    <h1>Vocabularios organizados segun FEMP</h1>
 </p>
 
-***
+
 
 <p float="right" align="center">
    <a href="https://leticiarubalcabadg.github.io/FEMPAGENDAMUNICIPAL"><img src="Iconos/sinergia.png" alt="Agenda municipal" width="150" /></a> &nbsp;&nbsp; 
@@ -52,7 +45,7 @@ feature_row:
 &nbsp; 
 
 
-***
+
 &nbsp; 
 
 <p float="right" align="center">
