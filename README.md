@@ -3,7 +3,7 @@
 &nbsp; 
 &nbsp; 
 
-<p align="center">   
+<p float="right" align="center">   
 <h1>Vocabularios organizados segun FEMP</h1>
 </p>
 
