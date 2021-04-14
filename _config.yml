@@ -30,3 +30,5 @@ header:
 
 layout: splash
 
+page-toc:
+  active: true
