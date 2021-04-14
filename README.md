@@ -23,10 +23,10 @@
 
 
 <p float="right" align="center">
-    <a href="https://leticiarubalcabadg.github.io/FEMPCONTAMINACION/"><img src="Iconos/megafono.png" alt="Contaminación" width="150" /> </a> &nbsp;&nbsp; 
-  <a href="https://leticiarubalcabadg.github.io/FEMPCONTRATACIONES/"><img src="Iconos/dosier.png" alt="Contrataciones" width="150"/></a> &nbsp;&nbsp; 
-<a href="https://leticiarubalcabadg.github.io/FEMPCONVENIOS"> <img src="Iconos/darse-la-mano.png" alt="Convenios" width="150" /> </a> &nbsp;&nbsp; 
-<a href="https://leticiarubalcabadg.github.io/FEMPDEUDAPÚBLICA"> <img src="Iconos/pedir-prestado.png" alt="Deuda" width="150" /> </a> &nbsp;&nbsp; 
+    <a href="https://leticiarubalcabadg.github.io/FEMPCONTAMINACION/"><img src="Iconos/megafono.png" alt="Contaminación" width="100" /> </a> &nbsp;&nbsp; 
+  <a href="https://leticiarubalcabadg.github.io/FEMPCONTRATACIONES/"><img src="Iconos/dosier.png" alt="Contrataciones" width="100"/></a> &nbsp;&nbsp; 
+<a href="https://leticiarubalcabadg.github.io/FEMPCONVENIOS"> <img src="Iconos/darse-la-mano.png" alt="Convenios" width="100" /> </a> &nbsp;&nbsp; 
+<a href="https://leticiarubalcabadg.github.io/FEMPDEUDAPÚBLICA"> <img src="Iconos/pedir-prestado.png" alt="Deuda" width="100" /> </a> &nbsp;&nbsp; 
 </p>
 
 
