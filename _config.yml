@@ -26,3 +26,7 @@ entries_layout: grid
 
 header:
   teaser: path-to-teaser-image.jpg
+
+
+layout: splash
+
