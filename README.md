@@ -4,6 +4,14 @@
 <h1> HOLA </h1>
 
 
+<p float="right" align="center">
+   <a href="https://leticiarubalcabadg.github.io/FEMPAGENDAMUNICIPAL/"><img src="Iconos/sinergia.png" alt="Agenda municipal" width="150" /> </a>
+ <a href="https://leticiarubalcabadg.github.io/FEMPAGENDAACTIVIDADES/"><img src="Iconos/calendario.png" alt="Agenda" width="150"/></a>
+ <a href="https://leticiarubalcabadg.github.io/FEMAPARCAIENTOS"> <img src="Iconos/coche.png" alt="Aparcamiento" width="150" /> </a>
+ <a href="https://leticiarubalcabadg.github.io/FEMAPAVISOS"> <img src="Iconos/advertencia.png" alt="Avisos" width="150" /> </a>
+</p>
+
+
 <table style="width:100%; table-layout:fixed">
 <tr>
 <th>  Agenda municipal alcaldía y personal directivo </th>
@@ -60,6 +68,14 @@
         </td>
 </tr>
 </table>
+
+
+<p float="right" align="center">
+    <a href="https://leticiarubalcabadg.github.io/FEMPCONTAMINACION/"><img src="Iconos/megafono.png" alt="Contaminación" width="150" /> </a>
+  <a href="https://leticiarubalcabadg.github.io/FEMPCONTRATACIONES/"><img src="Iconos/dosier.png" alt="Contrataciones" width="150"/></a>
+<a href="https://leticiarubalcabadg.github.io/FEMPCONVENIOS"> <img src="Iconos/darse-la-mano.png" alt="Convenios" width="150" /> </a>
+<a href="https://leticiarubalcabadg.github.io/FEMPDEUDAPÚBLICA"> <img src="Iconos/pedir-prestado.png" alt="Deuda" width="150" /> </a>
+</p>
 
 
 
