@@ -16,6 +16,9 @@ defaults:
       type: pages
     values:
       layout: single
+sidebar:
+  nav: "docs"
+
       
 #remote_theme: minimal-mistakes-jekyll
 #title: VocabulariosFEMP
