@@ -5,10 +5,10 @@
 
 
 <p float="right" align="center">
-   <a href="https://leticiarubalcabadg.github.io/FEMPAGENDAMUNICIPAL"><img src="Iconos/sinergia.png" alt="Agenda municipal" width="100" /></a> &nbsp;&nbsp; 
-   <a href="https://leticiarubalcabadg.github.io/FEMPAGENDAACTIVIDADES"><img src="Iconos/calendario.png" alt="Agenda" width="100"/></a>&nbsp;&nbsp;
-   <a href="https://leticiarubalcabadg.github.io/FEMAPARCAIENTOS"><img src="Iconos/coche.png" alt="Aparcamiento" width="100" /></a>&nbsp;&nbsp; 
-   <a href="https://leticiarubalcabadg.github.io/FEMAPAVISOS"><img src="Iconos/advertencia.png" alt="Avisos" width="100" /></a>&nbsp;&nbsp; 
+   <a href="https://leticiarubalcabadg.github.io/FEMPAGENDAMUNICIPAL"><img src="Iconos/sinergia.png" alt="Agenda municipal" width="150" /></a> &nbsp;&nbsp; 
+   <a href="https://leticiarubalcabadg.github.io/FEMPAGENDAACTIVIDADES"><img src="Iconos/calendario.png" alt="Agenda" width="150"/></a>&nbsp;&nbsp;
+   <a href="https://leticiarubalcabadg.github.io/FEMAPARCAIENTOS"><img src="Iconos/coche.png" alt="Aparcamiento" width="150" /></a>&nbsp;&nbsp; 
+   <a href="https://leticiarubalcabadg.github.io/FEMAPAVISOS"><img src="Iconos/advertencia.png" alt="Avisos" width="150" /></a>&nbsp;&nbsp; 
 </p>
 
 &nbsp; 
