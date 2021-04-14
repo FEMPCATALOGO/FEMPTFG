@@ -11,25 +11,6 @@
    <a href="https://leticiarubalcabadg.github.io/FEMAPAVISOS"><img src="Iconos/advertencia.png" alt="Avisos" width="100" /></a>&nbsp;&nbsp; 
 </p>
 
-<table style="width:100%; table-layout:fixed">
-<tr>
-<th>  Agenda municipal alcaldía y personal directivo </th>
-<th> Agenda de actividades y eventos </th>
-<th>  Aparcamientos públicos </th>
-<th> Avisos, sugerencias, quejas, y reclamaciones </th>
-</tr>
-<tr>
-        <td style="width:50px">
-        </td>
-        <td style="width:50px">
-        </td>
-        <td style="width:50px">
-        </td>
-        <td style="width:50px">
-        </td>
-</tr>
-</table>
-
 &nbsp; 
 
 <p float="right" align="center">
