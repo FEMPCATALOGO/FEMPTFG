@@ -24,7 +24,28 @@
         </td>
 </tr>
 </table>
-
+<table style="width:100%; table-layout:fixed">
+<tr>
+<th>  Agenda municipal alcaldía y personal directivo </th>
+<th> Agenda de actividades y eventos </th>
+<th>  Aparcamientos públicos </th>
+<th> Avisos, sugerencias, quejas, y reclamaciones </th>
+</tr>
+<tr>
+        <td style="width:50px">
+        <a href="https://leticiarubalcabadg.github.io/FEMPAGENDAMUNICIPAL/"><img src="Iconos/sinergia.png" alt="Agenda municipal" width="150" /> </a>
+        </td>
+        <td style="width:50px">
+          <a href="https://leticiarubalcabadg.github.io/FEMPAGENDAACTIVIDADES/"><img src="Iconos/calendario.png" alt="Agenda" width="150"/></a>
+        </td>
+        <td style="width:50px">
+       <a href="https://leticiarubalcabadg.github.io/FEMAPARCAIENTOS"> <img src="Iconos/coche.png" alt="Aparcamiento" width="150" /> </a>
+        </td>
+        <td style="width:50px">
+       <a href="https://leticiarubalcabadg.github.io/FEMAPAVISOS"> <img src="Iconos/advertencia.png" alt="Avisos" width="150" /> </a>
+        </td>
+</tr>
+</table>
 
 
 
