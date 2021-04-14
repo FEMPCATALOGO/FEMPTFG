@@ -5,11 +5,8 @@
 
 
 
-# Vocabularios organizados segun FEMP
+<h1 float="right" align="center">Vocabularios organizados segun FEMP</h1>
 
-<p float="right" align="center">   
-   <h1>Vocabularios organizados segun FEMP</h1>
-</p>
 
 
 
