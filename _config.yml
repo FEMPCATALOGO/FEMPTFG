@@ -1,5 +1,6 @@
 remote_theme: minimal-mistakes-jekyll
 title: VocabulariosFEMP
+layout: single
 plugins:
   - jekyll-include-cache  
   - jekyll-paginate
