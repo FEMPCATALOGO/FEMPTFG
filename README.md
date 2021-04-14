@@ -12,7 +12,7 @@
 </p>
 
 
-
+&nbsp; 
 
 <p float="right" align="center">
   <a href="https://leticiarubalcabadg.github.io/FEMPBICICLETA/"><img src="Iconos/bicicleta.png" alt="Bicicleta" width="100" /> </a> &nbsp;&nbsp; 
@@ -22,6 +22,7 @@
 </p>
 
 
+&nbsp; 
 <p float="right" align="center">
     <a href="https://leticiarubalcabadg.github.io/FEMPCONTAMINACION/"><img src="Iconos/megafono.png" alt="Contaminación" width="100" /> </a> &nbsp;&nbsp; 
   <a href="https://leticiarubalcabadg.github.io/FEMPCONTRATACIONES/"><img src="Iconos/dosier.png" alt="Contrataciones" width="100"/></a> &nbsp;&nbsp; 
@@ -30,6 +31,7 @@
 </p>
 
 
+&nbsp; 
 
 
 
