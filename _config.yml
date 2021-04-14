@@ -5,9 +5,6 @@ title: VocabulariosFEMP
 layout: single
 plugins:
   - jekyll-include-cache  
-  - jekyll-sitemap
-  - jemoji
-  
 
 
 include:
