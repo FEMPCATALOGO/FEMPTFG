@@ -50,7 +50,8 @@ include:
 
 # Plugins (previously gems:)
 plugins:
-  - jemoji
+  - jemoji  
+  - jekyll-include-cache
 
 author:
   name   : "First Lastname"
