@@ -1,4 +1,9 @@
 remote_theme: minimal-mistakes
 title: VocabulariosFEMP
 plugins:
-  - jekyll-include-cache
+  - jekyll-include-cache  
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
