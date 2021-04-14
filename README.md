@@ -12,6 +12,44 @@
 </p>
 
 
+
+
+<p float="right" align="center">
+  <a href="https://leticiarubalcabadg.github.io/FEMPBICICLETA/"><img src="Iconos/bicicleta.png" alt="Bicicleta" width="100" /> </a> &nbsp;&nbsp; 
+ <a href="https://leticiarubalcabadg.github.io/FEMPCALIDADAIRE/"><img src="Iconos/vegano.png" alt="Calidad aire" width="100"/></a> &nbsp;&nbsp; 
+<a href="https://leticiarubalcabadg.github.io/FEMPCALLEJERO"> <img src="Iconos/mapa-con-un-pequeno-simbolo-de-alfiler-dentro-de-un-circulo.png" alt="Callejero oficial" width="100"/> </a> &nbsp;&nbsp; &nbsp;
+ <a href="https://leticiarubalcabadg.github.io/FEMPCENSO"> <img src="Iconos/documentos.png" alt="Censo de locales" width="100" /> </a> &nbsp;&nbsp;
+</p>
+
+
+<p float="right" align="center">
+    <a href="https://leticiarubalcabadg.github.io/FEMPCONTAMINACION/"><img src="Iconos/megafono.png" alt="Contaminación" width="150" /> </a> &nbsp;&nbsp; 
+  <a href="https://leticiarubalcabadg.github.io/FEMPCONTRATACIONES/"><img src="Iconos/dosier.png" alt="Contrataciones" width="150"/></a> &nbsp;&nbsp; 
+<a href="https://leticiarubalcabadg.github.io/FEMPCONVENIOS"> <img src="Iconos/darse-la-mano.png" alt="Convenios" width="150" /> </a> &nbsp;&nbsp; 
+<a href="https://leticiarubalcabadg.github.io/FEMPDEUDAPÚBLICA"> <img src="Iconos/pedir-prestado.png" alt="Deuda" width="150" /> </a> &nbsp;&nbsp; 
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <table style="width:100%; table-layout:fixed">
 <tr>
 <th>  Agenda municipal alcaldía y personal directivo </th>
@@ -34,17 +72,6 @@
         </td>
 </tr>
 </table>
-
-
-
-<p float="right" align="center">
-  <a href="https://leticiarubalcabadg.github.io/FEMPBICICLETA/"><img src="Iconos/bicicleta.png" alt="Bicicleta" width="100" /> </a> &nbsp;&nbsp; 
- <a href="https://leticiarubalcabadg.github.io/FEMPCALIDADAIRE/"><img src="Iconos/vegano.png" alt="Calidad aire" width="100"/></a> &nbsp;&nbsp; 
-<a href="https://leticiarubalcabadg.github.io/FEMPCALLEJERO"> <img src="Iconos/mapa-con-un-pequeno-simbolo-de-alfiler-dentro-de-un-circulo.png" alt="Callejero oficial" width="100"/> </a> &nbsp;&nbsp; &nbsp;
- <a href="https://leticiarubalcabadg.github.io/FEMPCENSO"> <img src="Iconos/documentos.png" alt="Censo de locales" width="100" /> </a> &nbsp;&nbsp;
-</p>
-
-
 
 <table style="width:100%; table-layout:fixed">
 <tr>
@@ -69,13 +96,6 @@
 </tr>
 </table>
 
-
-<p float="right" align="center">
-    <a href="https://leticiarubalcabadg.github.io/FEMPCONTAMINACION/"><img src="Iconos/megafono.png" alt="Contaminación" width="150" /> </a> &nbsp;&nbsp; 
-  <a href="https://leticiarubalcabadg.github.io/FEMPCONTRATACIONES/"><img src="Iconos/dosier.png" alt="Contrataciones" width="150"/></a> &nbsp;&nbsp; 
-<a href="https://leticiarubalcabadg.github.io/FEMPCONVENIOS"> <img src="Iconos/darse-la-mano.png" alt="Convenios" width="150" /> </a> &nbsp;&nbsp; 
-<a href="https://leticiarubalcabadg.github.io/FEMPDEUDAPÚBLICA"> <img src="Iconos/pedir-prestado.png" alt="Deuda" width="150" /> </a> &nbsp;&nbsp; 
-</p>
 
 
 
