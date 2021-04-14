@@ -1,5 +1,5 @@
 <link href="stylesheet.css" rel="stylesheet"/>
-<link href="_data/navigation.yml" rel="_data/navigation.yml"/>
+<link href="_data/navigation.yml" rel="external"/>
 
 
 &nbsp; 
