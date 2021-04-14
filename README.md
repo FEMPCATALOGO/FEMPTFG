@@ -37,6 +37,7 @@
 
 
 ***
+&nbsp; 
 
 <p float="right" align="center">   
 <img src="https://ciudadesabiertas.es/assets/img/cabiertas/unionEuropea-logo.svg" alt="Logo UnionEuropea" width="200"/>
