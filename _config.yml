@@ -1,8 +1,8 @@
 remote_theme: minimal-mistakes-jekyll
-title: VocabulariosFEMP
-layout: single
-plugins:
-  - jekyll-include-cache  
+#title: VocabulariosFEMP
+#layout: single
+#plugins:
+#  - jekyll-include-cache  
 
 #defaults:
   # _pages
