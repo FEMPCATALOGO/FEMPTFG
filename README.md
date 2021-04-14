@@ -3,11 +3,11 @@
 &nbsp; 
 &nbsp; 
 
-<center>
+<p align="center">
    
 # Vocabularios organizados segun FEMP
 
-</center>
+</p>
 
 ***
 
