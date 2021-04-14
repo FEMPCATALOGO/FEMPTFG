@@ -1,3 +1,13 @@
+- title: Tags
+  url: /tags/
+  
+- title: Links
+  url: /links/   
+  
+- title: Tareas
+  url: /tareas/  
+
+
 main:
   - title: "Quick-Start Guide"
     url: /docs/quick-start-guide/
