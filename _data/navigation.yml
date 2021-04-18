@@ -1,13 +1,10 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
-    
+  - title: "Ciudades Abiertas"
+    url: "https://ciudadesabiertas.es/vocabularios/#Descripci%C3%B3n"
+  - title: "Open City GitHub"
+    url: "https://github.com/opencitydata/"
+
+
 docs:
   - title: "Posts"
     url: /posts/
