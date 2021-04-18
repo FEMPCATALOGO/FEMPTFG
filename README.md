@@ -7,7 +7,7 @@
 
 
 
-<h1 float="right" align="center">Vocabularios organizados segun FEMP</h1>
+<h1 float="right" align="center">Vocabularios FEMP</h1>
 
 ---
 
