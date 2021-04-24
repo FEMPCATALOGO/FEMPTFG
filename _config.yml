@@ -1,6 +1,7 @@
 remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 #remote_theme: minimal-mistakes-jekyll
 layout: single
+title: false
 plugins:
   - jekyll-include-cache  
   - jekyll-paginate
