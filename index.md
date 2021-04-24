@@ -44,7 +44,7 @@ classes: wide
 
 <p float="right" align="center">
    <a href="https://leticiarubalcabadg.github.io/FEMPCONTAMINACION"><img src="Iconos/contaminacion.png" alt="Contaminación" width="150" /> </a> &nbsp;&nbsp; 
-   <a href="https://leticiarubalcabadg.github.io/FEMPCONTRATACIONES"><img src="Iconos/contrataciones.png" alt="Contrataciones" width="150"/></a> &nbsp;&nbsp; 
+   <a href="https://leticiarubalcabadg.github.io/FEMPCONTRATACIONES"><img src="Iconos/contrataciones.png" alt="Contrataciones" width="140"/></a> &nbsp;&nbsp; 
    <a href="https://leticiarubalcabadg.github.io/FEMPCONVENIOS"> <img src="Iconos/convenios.png" alt="Convenios" width="150" /> </a> &nbsp;&nbsp; 
    <a href="https://leticiarubalcabadg.github.io/FEMPDEUDAPÚBLICA"> <img src="Iconos/deuda.png" alt="Deuda" width="160" /> </a> &nbsp;&nbsp; 
 </p>
