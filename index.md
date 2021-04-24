@@ -28,7 +28,7 @@ classes: wide
    <a href="https://leticiarubalcabadg.github.io/FEMPAGENDAMUNICIPAL"><img src="Iconos/agendamunicipal.png" alt="Agenda municipal" width="150" /></a> &nbsp;&nbsp; 
    <a href="https://leticiarubalcabadg.github.io/FEMPAGENDAACTIVIDADES"><img src="Iconos/agendaactividades.png" alt="Agenda" width="190"/></a>&nbsp;&nbsp;
    <a href="https://leticiarubalcabadg.github.io/FEMAPARCAIENTOS"><img src="Iconos/aparcamientos.png" alt="Aparcamiento" width="150" /></a>&nbsp;&nbsp; 
-    <a href="https://leticiarubalcabadg.github.io/FEMAPAVISOS"><img src="Iconos/avisos.png" alt="Avisos" width="130" /></a>
+    <a href="https://leticiarubalcabadg.github.io/FEMAPAVISOS"><img src="Iconos/avisos.png" alt="Avisos" width="130" /></a>&nbsp; &nbsp; 
 </p>
 
 
@@ -41,13 +41,10 @@ classes: wide
    <a href="https://leticiarubalcabadg.github.io/FEMPCENSO"> <img src="Iconos/censo.png" alt="Censo de locales" width="130" /> </a> &nbsp;&nbsp;
 </p>
 
-<p float="right" align="center">   
-   <a href="https://leticiarubalcabadg.github.io/FEMPCONTAMINACION"><img src="Iconos/contaminacion.png" alt="Contaminación" width="160" /> </a> &nbsp;&nbsp; 
- </p>
-
 
 
 <p float="right" align="center">
+   <a href="https://leticiarubalcabadg.github.io/FEMPCONTAMINACION"><img src="Iconos/contaminacion.png" alt="Contaminación" width="160" /> </a> &nbsp;&nbsp; 
    <a href="https://leticiarubalcabadg.github.io/FEMPCONTRATACIONES"><img src="Iconos/contrataciones.png" alt="Contrataciones" width="150"/></a> &nbsp;&nbsp; 
    <a href="https://leticiarubalcabadg.github.io/FEMPCONVENIOS"> <img src="Iconos/convenios.png" alt="Convenios" width="150" /> </a> &nbsp;&nbsp; 
    <a href="https://leticiarubalcabadg.github.io/FEMPDEUDAPÚBLICA"> <img src="Iconos/deuda.png" alt="Deuda" width="150" /> </a> &nbsp;&nbsp; 
