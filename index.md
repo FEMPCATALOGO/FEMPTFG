@@ -16,12 +16,8 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
 <link href="_data/navigation.yml" rel="external"/>
 
 
-&nbsp; 
-&nbsp; 
 
 
-
----
 
 &nbsp;
 
