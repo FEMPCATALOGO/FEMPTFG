@@ -51,7 +51,7 @@
 &nbsp; 
 
 <p float="right" align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/FEMP_%28logotipo%29.svg/590px-FEMP_%28logotipo%29.svg.png" alt="Logo FEMP" width="150"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/FEMP_%28logotipo%29.svg/590px-FEMP_%28logotipo%29.svg.png" alt="Logo FEMP" height="100" width="100"/>
  <img src="https://ciudadesabiertas.es/assets/img/cabiertas/gobEspana-logo.svg" alt="Logo Gobierno España" width="200"/>
 <img src="https://ciudadesabiertas.es/assets/img/cabiertas/red-logo.svg" alt="Logo red.es" width="150"/>
 </p>
