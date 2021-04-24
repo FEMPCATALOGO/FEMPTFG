@@ -26,7 +26,7 @@
 
 
 <p float="right" align="center">
-   <a href="https://leticiarubalcabadg.github.io/FEMAPAVISOS"><img src="Iconos/avisos.png" alt="Avisos" width="130" /></a>&nbsp;&nbsp;    
+   <a href="https://leticiarubalcabadg.github.io/FEMAPAVISOS"><img src="Iconos/avisos.png" alt="Avisos" width="130" /></a>&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; 
    <a href="https://leticiarubalcabadg.github.io/FEMPBICICLETA"><img src="Iconos/bicicleta.png" alt="Bicicleta" width="150" /> </a> &nbsp;&nbsp; &nbsp; 
    <a href="https://leticiarubalcabadg.github.io/FEMPCALIDADAIRE"><img src="Iconos/calidadaire.png" alt="Calidad aire" width="150"/></a> &nbsp;&nbsp; 
 </p>
