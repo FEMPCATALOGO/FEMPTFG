@@ -3,18 +3,12 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
+title: Vocabularios FEMP
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: bicicleta.png
-  actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
-intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
-
+excerpt: "Conjunto de datos clasificados segun los criterios de la Federación Española de Municipios y Provincias ."
 ---
 
 
@@ -26,8 +20,6 @@ intro:
 &nbsp; 
 
 
-
-<h1 float="right" align="center">Vocabularios FEMP</h1>
 
 ---
 
