@@ -34,7 +34,6 @@ classes: wide
 
 
 <p float="right" align="center">
-  &nbsp;&nbsp;
    <a href="https://leticiarubalcabadg.github.io/FEMPBICICLETA"><img src="Iconos/bicicleta.png" alt="Bicicleta" width="150" /> </a> &nbsp;&nbsp; &nbsp; 
    <a href="https://leticiarubalcabadg.github.io/FEMPCALIDADAIRE"><img src="Iconos/calidadaire.png" alt="Calidad aire" width="150"/></a> &nbsp;&nbsp; 
       <a href="https://leticiarubalcabadg.github.io/FEMPCALLEJERO"> <img src="Iconos/callejero.png" alt="Callejero oficial" width="140"/> </a> &nbsp;&nbsp; &nbsp;
