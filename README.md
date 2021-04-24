@@ -51,9 +51,9 @@
 &nbsp; 
 
 <p float="right" align="center">
-<img src="https://ciudadesabiertas.es/assets/img/cabiertas/gobEspana-logo.svg" alt="Logo Gobierno España" width="200"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FFederaci%25C3%25B3n_Espa%25C3%25B1ola_de_Municipios_y_Provincias&psig=AOvVaw1Qotb2Ssoh91a1yHGcpFe8&ust=1619367649636000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODKjd6kl_ACFQAAAAAdAAAAABAD" alt="Logo FEMP" width="150"/>
+ <img src="https://ciudadesabiertas.es/assets/img/cabiertas/gobEspana-logo.svg" alt="Logo Gobierno España" width="200"/>
 <img src="https://ciudadesabiertas.es/assets/img/cabiertas/red-logo.svg" alt="Logo red.es" width="150"/>
-<img src="https://ciudadesabiertas.es/assets/img/cabiertas/ciudadesInteligentes-logo.svg" alt="Logo CiudadesInteligentes" width="150"/>
 </p>
 
 <p float="right" align="center">   
