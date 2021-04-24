@@ -26,7 +26,7 @@ classes: wide
 
 <p float="right" align="center">
    <a href="https://leticiarubalcabadg.github.io/FEMPAGENDAMUNICIPAL"><img src="Iconos/agendamunicipal.png" alt="Agenda municipal" width="150" /></a> &nbsp;&nbsp; 
-   <a href="https://leticiarubalcabadg.github.io/FEMPAGENDAACTIVIDADES"><img src="Iconos/agendaactividades.png" alt="Agenda" width="190"/></a>&nbsp;&nbsp;
+   <a href="https://leticiarubalcabadg.github.io/FEMPAGENDAACTIVIDADES"><img src="Iconos/agendaactividades.png" alt="Agenda" width="150"/></a>&nbsp;&nbsp;
    <a href="https://leticiarubalcabadg.github.io/FEMAPARCAIENTOS"><img src="Iconos/aparcamientos.png" alt="Aparcamiento" width="150" /></a>&nbsp;&nbsp; 
     <a href="https://leticiarubalcabadg.github.io/FEMAPAVISOS"><img src="Iconos/avisos.png" alt="Avisos" width="130" /></a>&nbsp; &nbsp; 
 </p>
