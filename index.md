@@ -26,7 +26,7 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
 <p float="right" align="center">
    <a href="https://leticiarubalcabadg.github.io/FEMPAGENDA"><img src="Iconos/agendamunicipal.png" alt="Agenda municipal" width="140" /></a> &nbsp;&nbsp; 
    <a href="https://leticiarubalcabadg.github.io/FEMPAGENDAACTIVIDADES"><img src="Iconos/agendaactividades.png" alt="Agenda" width="140"/></a>&nbsp;&nbsp;
-   <a href="https://leticiarubalcabadg.github.io/FEMAPARCAIENTOS"><img src="Iconos/aparcamientos.png" alt="Aparcamiento" width="140" /></a>&nbsp;&nbsp; 
+   <a href="https://leticiarubalcabadg.github.io/FEMPAPARCAIENTOS"><img src="Iconos/aparcamientos.png" alt="Aparcamiento" width="140" /></a>&nbsp;&nbsp; 
     <a href="https://leticiarubalcabadg.github.io/FEMAPAVISOS"><img src="Iconos/avisos.png" alt="Avisos" width="130" /></a>&nbsp; &nbsp; 
 </p>
 
