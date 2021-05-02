@@ -54,7 +54,7 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
    <a href="https://leticiarubalcabadg.github.io/FEMPEQUIPAMIENTO"><img src="Iconos/equipamiento.png" alt="Equipamientos" width="140" /> </a> &nbsp;&nbsp; 
    <a href="https://leticiarubalcabadg.github.io/FEMPTRAFICO"><img src="Iconos/trafico.png" alt="Trafico" width="130"/></a> &nbsp;&nbsp; 
    <a href="https://leticiarubalcabadg.github.io/FEMPINSTALACIONESDEPORTIVAS"> <img src="Iconos/deporte.png" alt="InstalacionesDeportivas" width="150" /> </a> &nbsp;&nbsp; 
-   <a href="https://leticiarubalcabadg.github.io/FEMPLUGARINTERES"> <img src="Iconos/lugar.png" alt="LugarInteres" width="140" /> </a> &nbsp;&nbsp; 
+   <a href="https://leticiarubalcabadg.github.io/FEMPLUGARINTERE"> <img src="Iconos/lugar.png" alt="LugarInteres" width="140" /> </a> &nbsp;&nbsp; 
 </p>
 
 
