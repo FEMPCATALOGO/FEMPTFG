@@ -12,6 +12,7 @@
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
@@ -33,7 +34,7 @@
       <footer>
         <a href="https://datos.gob.es/es/documentacion/datos-abiertos-femp-2019-40-conjuntos-de-datos-publicar-por-las-entidades-locales">DATOS ABIERTOS FEMP</a>     
              <br>
-        <a href="https://docs.google.com/document/d/1FfWJP6wjsKchWTzrzL4KkjasgJaMUlRhbhP_jKsUNVU/edit?usp=sharing">CC-BY ICONOS </a>
+        <i class="fa fa-glass" aria-hidden="true"></i> <a href="https://docs.google.com/document/d/1FfWJP6wjsKchWTzrzL4KkjasgJaMUlRhbhP_jKsUNVU/edit?usp=sharing">CC-BY ICONOS </a>
       </footer>
     </div>
 
