@@ -35,7 +35,7 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
 <p float="right" align="center">
    <a href="https://leticiarubalcabadg.github.io/FEMPBICICLETA"><img src="Iconos/bicicleta.png" alt="Bicicleta" width="150" /> </a> &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;
    <a href="https://leticiarubalcabadg.github.io/FEMPCALIDADAIRE"><img src="Iconos/calidadaire.png" alt="Calidad aire" width="140"/></a> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-      <a href="https://leticiarubalcabadg.github.io/FEMPCALLEJERO"> <img src="Iconos/callejero.png" alt="Callejero oficial" width="140"/> </a> &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;
+      <a href="https://leticiarubalcabadg.github.io/FEMPCALLEJERO"> <img src="Iconos/callejero.png" alt="Callejero oficial" width="130"/> </a> &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;
    <a href="https://leticiarubalcabadg.github.io/FEMPCENSO"> <img src="Iconos/censo.png" alt="Censo de locales" width="130" /> </a> &nbsp;&nbsp;
 </p>
 
@@ -100,9 +100,9 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
 
 <p float="right" align="center">
    <a href="https://leticiarubalcabadg.github.io/FEMPLICENCIAS"><img src="Iconos/licencias.png" alt="LicenciasUrbanisticas" width="130" /> </a> &nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;
-   <a href="https://leticiarubalcabadg.github.io/FEMPRESIDUOS"><img src="Iconos/residuos.png" alt="GestionResiduos" width="120/></a> &nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;
-   <a href="https://leticiarubalcabadg.github.io/FEMPFUENTES"> <img src="Iconos/fuentes.png" alt="FuentesAgua" width="140 /> </a> &nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;
-   <a href="https://leticiarubalcabadg.github.io/FEMPSANCIONES"> <img src="Iconos/sanciones.png" alt="SancionesMultas" width="150 /> </a> &nbsp;&nbsp; 
+   <a href="https://leticiarubalcabadg.github.io/FEMPRESIDUOS"><img src="Iconos/residuos.png" alt="GestionResiduos" width="120" /></a> &nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;
+   <a href="https://leticiarubalcabadg.github.io/FEMPFUENTES"> <img src="Iconos/fuentes.png" alt="FuentesAgua" width="140" /> </a> &nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;
+   <a href="https://leticiarubalcabadg.github.io/FEMPSANCIONES"> <img src="Iconos/sanciones.png" alt="SancionesMultas" width="150" /> </a> &nbsp;&nbsp; 
 </p>
 
 
