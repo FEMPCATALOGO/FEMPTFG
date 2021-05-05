@@ -1,7 +1,6 @@
 main:
-  - title: "Ciudades Abiertas"
-    icon: "fas fa-fw fa-link"
-    url: "https://ciudadesabiertas.es/vocabularios/#Descripci%C3%B3n"
+  - title: "Open Data Cities"
+    url: "http://vocab.linkeddata.es/datosabiertos/"
   - title: "Open City GitHub"
     icon: "fab fa-fw fa-github"
     url: "https://github.com/opencitydata/"
