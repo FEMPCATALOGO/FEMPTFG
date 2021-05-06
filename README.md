@@ -97,6 +97,10 @@
    <a href="https://leticiarubalcabadg.github.io/FEMPDEUDAPÚBLICA"> <img src="Iconos/sanciones.png" alt="SancionesMultas" width="160" /> </a> &nbsp;&nbsp; 
 </p>
 
+<p float="right" align="center">
+  <a href="https://leticiarubalcabadg.github.io/FEMPOTROS"> <img src="Iconos/otros.png" alt="OTROS" width="200" /></a> 
+</p>
+
 
 
 
