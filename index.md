@@ -106,6 +106,9 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
 </p>
 
 
+<p float="right" align="center">
+  <a href="https://leticiarubalcabadg.github.io/FEMPOTROS"> <img src="Iconos/otros.png" alt="OTROS" width="200" /></a> 
+</p>
 
 
 
