@@ -5,7 +5,7 @@
 layout: splash
 title: Vocabularios FEMP
 header:
-  overlay_color: "#000"
+  overlay_color: "#ececec"
   overlay_filter: "0.5"
   overlay_image: bicicleta.png
 excerpt: "Conjunto de datos clasificados segun los criterios de la Federación Española de Municipios y Provincias ."
