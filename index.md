@@ -10,11 +10,10 @@ header:
   overlay_image: bicicleta.png
 excerpt: "Conjunto de datos clasificados segun los criterios de la Federación Española de Municipios y Provincias ."
 ---
-
-
 <link href="stylesheet.css" rel="stylesheet"/>
 <link href="_data/navigation.yml" rel="external"/>
 
+<h1> VOCABULARIO BICICLETA </h1>
 
 
 
