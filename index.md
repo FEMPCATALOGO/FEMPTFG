@@ -90,19 +90,17 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
 </figure>
 
 
- <figure class="imagen">
+<figure class="imagen">
 <a href="https://fempcatalogo.github.io/FEMPDEUDAPUBLICA"> <img src="Iconos/deuda.png" alt="Deuda" width="40"/>
     <figcaption>Deuda pública del ayuntamiento</figcaption></a>
 </figure>
 
-
- <figure class="imagen">
+<figure class="imagen">
 <a href="https://fempcatalogo.github.io/FEMPEQUIPAMIENTO"><img src="Iconos/equipamiento.png" alt="Equipamientos" width="40"/>
     <figcaption>Equipamientos municipales</figcaption></a>
 </figure>
 
-
- <figure class="imagen">
+<figure class="imagen">
 <a href="https://fempcatalogo.github.io/FEMPTRAFICO"><img src="Iconos/trafico.png" alt="Trafico" width="40"/>
     <figcaption>Tráfico</figcaption></a>
 </figure>
@@ -150,7 +148,6 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
     <figcaption>Cartografía municipal</figcaption></a>
 </figure>
 
-
 <figure class="imagen">
 <a href="https://fempcatalogo.github.io/FEMPACCIDENTES"><img src="Iconos/accidentes.png" alt="AccidentesTrafico" width="40"/>
     <figcaption>Accidentes de tráfico</figcaption></a>
@@ -158,13 +155,13 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
 
 
 <figure class="imagen">
-<a href="https://fempcatalogo.github.io/FEMPCONTENEDORES"> <img src="Iconos/reciclar.png" alt="ContenedoresReciclaje" width="40"/>
+<a href="https://fempcatalogo.github.io/FEMPCONTENEDORES"><img src="Iconos/reciclar.png" alt="ContenedoresReciclaje" width="40"/>
     <figcaption>Contenedores para el reciclaje</figcaption></a>
 </figure>
 
 
 <figure class="imagen">
-<a href="https://fempcatalogo.github.io/FEMPREGISTRO"> <img src="Iconos/registro.png" alt="RegistroAsociaciones" width="40"/>
+<a href="https://fempcatalogo.github.io/FEMPREGISTRO"><img src="Iconos/registro.png" alt="RegistroAsociaciones" width="40"/>
     <figcaption>Registro de asociaciones</figcaption></a>
 </figure>
 
@@ -179,9 +176,8 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
     <figcaption>Calidad del agua</figcaption></a>
 </figure>
 
-
 <figure class="imagen">
- <a href="https://fempcatalogo.github.io/FEMPCARRILBICI"> <img src="Iconos/carrilbici.png" alt="CarrilesBici" width="40"/>
+ <a href="https://fempcatalogo.github.io/FEMPCARRILBICI"><img src="Iconos/carrilbici.png" alt="CarrilesBici" width="40"/>
     <figcaption>Carriles bici/ vías ciclistas/ calles tranquilas</figcaption></a>
 </figure>
 
@@ -224,7 +220,7 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
 
 
 <figure class="imagen">
- <a href="https://fempcatalogo.github.io/FEMPINVENTARIO"><img src="Iconos/inventario.png" alt="inventarioBienes" width="40/>
+ <a href="https://fempcatalogo.github.io/FEMPINVENTARIO"><img src="Iconos/inventario.png" alt="inventarioBienes" width="40"/>
     <figcaption>Inventario de bienes urbanos y rústicos</figcaption></a>
 </figure>
 
@@ -239,6 +235,7 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
     <figcaption>Relación de Puestos de Trabajo(RPT)</figcaption></a>
 </figure>
 
+
 <figure class="imagen">
  <a href="https://fempcatalogo.github.io/FEMPLICENCIAS"><img src="Iconos/licencias.png" alt="LicenciasUrbanisticas" width="40"/>
     <figcaption>Licencias urbanísticas y de actividad de locales comerciales</figcaption></a>
@@ -249,18 +246,15 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
     <figcaption>Gestión de residuos</figcaption></a>
 </figure>
 
-
 <figure class="imagen">
  <a href="https://fempcatalogo.github.io/FEMPFUENTES"> <img src="Iconos/fuentes.png" alt="FuentesAgua" width="40"/>
     <figcaption>Fuente de agua de beber</figcaption></a>
 </figure>
 
-
 <figure class="imagen">
  <a href="https://fempcatalogo.github.io/FEMPSANCIONES"> <img src="Iconos/sanciones.png" alt="SancionesMultas" width="40"/>
     <figcaption>Sanciones y multas</figcaption></a>
 </figure>
-
 
 <figure class="imagen">
 <a href="https://fempcatalogo.github.io/FEMPOTROS"> <img src="Iconos/otros.png" alt="OTROS" width="40"/>
@@ -268,8 +262,6 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
 </figure>
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </div>
 
 </body>
