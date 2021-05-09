@@ -21,6 +21,7 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
 
 <div class="todojunto">
   
+  <p float="right" align="center">
   
   <figure class="imagen">
   <a href="https://fempcatalogo.github.io/FEMPAGENDA"><img src="Iconos/agendamunicipal.png" alt="Agenda municipal alcaldía y personal directivo" width="50"/>  
@@ -45,7 +46,10 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
     <figcaption>Avisos, sugerencias, quejas y reclamaciones</figcaption></a>
 </figure>
 
+</p>
 
+
+<p float="right" align="center">
 
   <figure class="imagen">
    <a href="https://fempcatalogo.github.io/FEMPBICICLETA"><img src="Iconos/bicicleta.png" alt="Bicicleta" width="50"/> 
@@ -58,8 +62,6 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
     <figcaption>Calidad del aire</figcaption></a>
 </figure>
 
-
-
   <figure class="imagen">
   <a href="https://fempcatalogo.github.io/FEMPCALLEJERO"> <img src="Iconos/callejero.png" alt="Callejero oficial" width="40"/>
     <figcaption>Callejero oficial del Ayuntamiento</figcaption></a>
@@ -71,7 +73,10 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
     <figcaption>Censo de locales, actividades, terrazas de hostelería y restauración, y licencias de apertura</figcaption></a>
 </figure>
 
+</p>
 
+<p float="right" align="center">
+  
  <figure class="imagen">
  <a href="https://fempcatalogo.github.io/FEMPCONTAMINACION"><img src="Iconos/contaminacion.png" alt="Contaminación" width="50"/>
     <figcaption>Contaminación acústica</figcaption></a>
@@ -95,6 +100,11 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
     <figcaption>Deuda pública del ayuntamiento</figcaption></a>
 </figure>
 
+</p>
+
+
+<p float="right" align="center">
+  
 <figure class="imagen">
 <a href="https://fempcatalogo.github.io/FEMPEQUIPAMIENTO"><img src="Iconos/equipamiento.png" alt="Equipamientos" width="35"/> <figcaption>Equipamientos municipales</figcaption></a>
 </figure>
@@ -116,8 +126,10 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
     <figcaption>Lugar de interés turístico</figcaption></a>
 </figure>
 
+</p>
 
 
+<p float="right" align="center">
  <figure class="imagen">
 <a href="https://fempcatalogo.github.io/FEMPPADRONMUNICIPAL"><img src="Iconos/padron.png" alt="PadronMunicipal" width="50"/>
     <figcaption>Padrón municipal: población</figcaption></a>
@@ -141,6 +153,9 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
     <figcaption>Transporte público</figcaption></a>
 </figure>
 
+</p>
+
+<p float="right" align="center">
 
 <figure class="imagen">
 <a href="https://fempcatalogo.github.io/FEMPCARTOGRAFIA"><img src="Iconos/cartografia.png" alt="Cartografía" width="30"/>
@@ -164,6 +179,10 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
     <figcaption>Registro de asociaciones</figcaption></a>
 </figure>
 
+</p>
+
+
+<p float="right" align="center">
 
 <figure class="imagen">
 <a href="https://fempcatalogo.github.io/FEMPALOJAMIENTOS"><img src="Iconos/alojamientos.png" alt="Alojamientos" width="40"/>
@@ -185,7 +204,10 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
  <a href="https://fempcatalogo.github.io/FEMPALUMBRADO"> <img src="Iconos/alumbrado.png" alt="Alumbrado" width="40"/>
     <figcaption>Alumbrado público</figcaption></a>
 </figure>
+</p>
 
+
+<p float="right" align="center">
 
 <figure class="imagen">
 <a href="https://fempcatalogo.github.io/FEMPSUBVENCIONES"><img src="Iconos/subvenciones.png" alt="Subvenciones" width="40"/>
@@ -210,6 +232,9 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
     <figcaption>Facturas</figcaption></a>
 </figure>
 
+</p>
+
+<p float="right" align="center">
 
 <figure class="imagen">
  <a href="https://fempcatalogo.github.io/FEMPCENSOVEHICULOS"><img src="Iconos/censovehiculos.png" alt="CensoVehiculos" width="40"/>
@@ -233,7 +258,9 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
  <a href="https://fempcatalogo.github.io/FEMPRPT"> <img src="Iconos/rpt.png" alt="RPT" width="40"/>
     <figcaption>Relación de Puestos de Trabajo(RPT)</figcaption></a>
 </figure>
+</p>
 
+<p float="right" align="center">
 
 <figure class="imagen">
  <a href="https://fempcatalogo.github.io/FEMPLICENCIAS"><img src="Iconos/licencias.png" alt="LicenciasUrbanisticas" width="40"/>
@@ -254,6 +281,9 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
  <a href="https://fempcatalogo.github.io/FEMPSANCIONES"> <img src="Iconos/sanciones.png" alt="SancionesMultas" width="40"/>
     <figcaption>Sanciones y multas</figcaption></a>
 </figure>
+
+</p>
+
 
 <figure class="imagen">
 <a href="https://fempcatalogo.github.io/FEMPOTROS"> <img src="Iconos/otros.png" alt="OTROS" width="40"/>
