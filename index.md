@@ -55,13 +55,7 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
 </div>
 
 
-<p float="right" align="center">
-
-  <figure class="imagen">
-   <a href="https://fempcatalogo.github.io/FEMPAVISOS"><img src="Iconos/avisos.png" alt="Avisos" width="40"/>
-    <figcaption>Avisos, sugerencias, quejas y reclamaciones</figcaption></a>
-   <br>
-</figure>
+ <div class="grid-container">
 
   <figure class="imagen">
    <a href="https://fempcatalogo.github.io/FEMPBICICLETA"><img src="Iconos/bicicleta.png" alt="Bicicleta" width="50"/> 
@@ -77,24 +71,21 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
 </figure>
 
 
-</p>
-
-<p float="right" align="center">
   <figure class="imagen">
   <a href="https://fempcatalogo.github.io/FEMPCALLEJERO"> <img src="Iconos/callejero.png" alt="Callejero oficial" width="35"/>
     <figcaption>Callejero oficial del Ayuntamiento</figcaption></a>
    <br>
 </figure>
 
-
   <figure class="imagen">
   <a href="https://fempcatalogo.github.io/FEMPCENSO"> <img src="Iconos/censo.png" alt="Censo de locales" width="40"/>
     <figcaption>Censo de locales, actividades, terrazas de hostelería y restauración, y licencias de apertura</figcaption></a>
    <br>
 </figure>
-</p>
+</div>
 
-<p float="right" align="center">
+
+ <div class="grid-container">
   
  <figure class="imagen">
  <a href="https://fempcatalogo.github.io/FEMPCONTAMINACION"><img src="Iconos/contaminacion.png" alt="Contaminación" width="50"/>
@@ -113,16 +104,17 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
     <figcaption>Convenios</figcaption></a>
 </figure>
 
-
+ 
 <figure class="imagen">
 <a href="https://fempcatalogo.github.io/FEMPDEUDAPUBLICA"> <img src="Iconos/deuda.png" alt="Deuda" width="40"/>
     <figcaption>Deuda pública del ayuntamiento</figcaption></a>
 </figure>
 
-</p>
+</div>
 
 
-<p float="right" align="center">
+
+ <div class="grid-container">
   
 <figure class="imagen">
 <a href="https://fempcatalogo.github.io/FEMPEQUIPAMIENTO"><img src="Iconos/equipamiento.png" alt="Equipamientos" width="35"/> <figcaption>Equipamientos municipales</figcaption></a>
@@ -145,10 +137,12 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
     <figcaption>Lugar de interés turístico</figcaption></a>
 </figure>
 
-</p>
+</div>
 
 
-<p float="right" align="center">
+
+ <div class="grid-container">
+
  <figure class="imagen">
 <a href="https://fempcatalogo.github.io/FEMPPADRONMUNICIPAL"><img src="Iconos/padron.png" alt="PadronMunicipal" width="50"/>
     <figcaption>Padrón municipal: población</figcaption></a>
@@ -166,15 +160,16 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
     <figcaption>Puntos de acceso WIFI públicos</figcaption></a>
 </figure>
 
-
  <figure class="imagen">
 <a href="https://fempcatalogo.github.io/FEMPTRANSPORTEPUBLICO"> <img src="Iconos/transporte.png" alt="TransportePublico" width="40"/>
     <figcaption>Transporte público</figcaption></a>
 </figure>
 
-</p>
+</div>
 
-<p float="right" align="center">
+
+
+ <div class="grid-container">
 
 <figure class="imagen">
 <a href="https://fempcatalogo.github.io/FEMPCARTOGRAFIA"><img src="Iconos/cartografia.png" alt="Cartografía" width="30"/>
@@ -191,17 +186,17 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
 <a href="https://fempcatalogo.github.io/FEMPCONTENEDORES"><img src="Iconos/reciclar.png" alt="ContenedoresReciclaje" width="40"/>
     <figcaption>Contenedores para el reciclaje</figcaption></a>
 </figure>
-
-
+  
 <figure class="imagen">
 <a href="https://fempcatalogo.github.io/FEMPREGISTRO"><img src="Iconos/registro.png" alt="RegistroAsociaciones" width="40"/>
     <figcaption>Registro de asociaciones</figcaption></a>
 </figure>
 
-</p>
+</div>
 
 
-<p float="right" align="center">
+
+ <div class="grid-container">
 
 <figure class="imagen">
 <a href="https://fempcatalogo.github.io/FEMPALOJAMIENTOS"><img src="Iconos/alojamientos.png" alt="Alojamientos" width="40"/>
@@ -218,15 +213,15 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
     <figcaption>Carriles bici/ vías ciclistas/ calles tranquilas</figcaption></a>
 </figure>
 
-
 <figure class="imagen">
  <a href="https://fempcatalogo.github.io/FEMPALUMBRADO"> <img src="Iconos/alumbrado.png" alt="Alumbrado" width="40"/>
     <figcaption>Alumbrado público</figcaption></a>
 </figure>
-</p>
+
+</div>
 
 
-<p float="right" align="center">
+ <div class="grid-container">
 
 <figure class="imagen">
 <a href="https://fempcatalogo.github.io/FEMPSUBVENCIONES"><img src="Iconos/subvenciones.png" alt="Subvenciones" width="40"/>
@@ -245,15 +240,14 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
     <figcaption>Censo de empresas que pagan impuestos o están obligadas en Entidades Locales</figcaption></a>
 </figure>
 
-
 <figure class="imagen">
 <a href="https://fempcatalogo.github.io/FEMPFACTURAS"> <img src="Iconos/facturas.png" alt="Facturas" width="40"/>
     <figcaption>Facturas</figcaption></a>
 </figure>
+</div>
 
-</p>
 
-<p float="right" align="center">
+ <div class="grid-container">
 
 <figure class="imagen">
  <a href="https://fempcatalogo.github.io/FEMPCENSOVEHICULOS"><img src="Iconos/censovehiculos.png" alt="CensoVehiculos" width="40"/>
@@ -277,10 +271,10 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
  <a href="https://fempcatalogo.github.io/FEMPRPT"> <img src="Iconos/rpt.png" alt="RPT" width="40"/>
     <figcaption>Relación de Puestos de Trabajo(RPT)</figcaption></a>
 </figure>
-</p>
+</div>
 
-<p float="right" align="center">
-
+ <div class="grid-container">
+  
 <figure class="imagen">
  <a href="https://fempcatalogo.github.io/FEMPLICENCIAS"><img src="Iconos/licencias.png" alt="LicenciasUrbanisticas" width="40"/>
     <figcaption>Licencias urbanísticas y de actividad de locales comerciales</figcaption></a>
@@ -301,7 +295,7 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
     <figcaption>Sanciones y multas</figcaption></a>
 </figure>
 
-</p>
+</div>
 
 
 <figure class="imagen">
