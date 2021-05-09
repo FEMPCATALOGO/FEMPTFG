@@ -22,14 +22,14 @@ h1{
 
 figure {
   float: center;
-  width: 20%;
-  text-align: center;
+  width: 30%;
+  text-align: left;
   font-style: italic;
   font-size: smaller;
   text-indent: 0.5em;
-  border: thin silver solid;
   margin: 0.5em;
   padding: 0.5em;
+  color:black;
 }
 img.scaled {
   width: 100%;
@@ -37,6 +37,25 @@ img.scaled {
 
 img{
    background-color: white; 
-    margin: 0.5em;
-  padding: 0.5em;
+    margin: 0em;
+  padding: 2em;
+}
+a:link {
+  text-decoration: none;
+   color:black;
+}
+
+a:visited {
+  text-decoration: none;
+   color:black;
+}
+
+a:hover {
+  text-decoration: #939aaa;
+   color:#939aaa;
+}
+
+a:active {
+  text-decoration: none;
+   color:black;
 }
