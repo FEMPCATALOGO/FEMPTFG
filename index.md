@@ -13,7 +13,6 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
 <link href="stylesheet.css" rel="stylesheet"/>
 <link href="_data/navigation.yml" rel="external"/>
 
-<h1> VOCABULARIO BICICLETA </h1>
 
 
 
