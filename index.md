@@ -23,13 +23,13 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
   
   
   <figure class="imagen">
-  <a href="https://fempcatalogo.github.io/FEMPAGENDA"><img src="Iconos/agendamunicipal.png" alt="Agenda municipal alcaldía y personal directivo" width="100"/>  
+  <a href="https://fempcatalogo.github.io/FEMPAGENDA"><img src="Iconos/agendamunicipal.png" alt="Agenda municipal alcaldía y personal directivo" width="80"/>  
     <figcaption>Agenda municipal alcaldía y personal directivo</figcaption></a>
 </figure>    
 
 
   <figure class="imagen">
-    <a href="https://fempcatalogo.github.io/FEMPAGENDAACTIVIDADES"><img src="Iconos/agendaactividades.png" alt="Agenda" width="100"/> 
+    <a href="https://fempcatalogo.github.io/FEMPAGENDAACTIVIDADES"><img src="Iconos/agendaactividades.png" alt="Agenda" width="80"/> 
     <figcaption>Agenda de actividades y eventos</figcaption></a>
 </figure>    
 
