@@ -9,8 +9,8 @@ body{
 
 .column {
   float: left;
-  width: 33.33%;
-  padding: 5px;
+  width: 30%;
+  padding: 2px;
 }
 
 .row::after {
