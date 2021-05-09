@@ -30,6 +30,7 @@ figure {
   border: thin silver solid;
   margin: 0.5em;
   padding: 0.5em;
+  background-color: white;
 }
 img.scaled {
   width: 50%;
