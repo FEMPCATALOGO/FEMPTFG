@@ -42,7 +42,7 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
    <a href="https://fempcatalogo.github.io/FEMPAPARCAIENTOS"><img src="Iconos/aparcamientos.png" alt="Aparcamiento" width="40" />
     <figcaption>Aparcamientos públicos</figcaption></a>
 </figure>
-<div
+<div>
 
 </div>
 
