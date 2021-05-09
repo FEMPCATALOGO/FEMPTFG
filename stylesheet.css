@@ -36,7 +36,8 @@ h1{
 }
 
 imagenOTROS{
-    width: 50%;
+    width: 100px;
+   background-color: white; 
 }
 
 figure {
