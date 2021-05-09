@@ -43,7 +43,7 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
 
   <figure class="imagen">
    <a href="https://fempcatalogo.github.io/FEMPAVISOS"><img src="Iconos/avisos.png" alt="Avisos" width="40"/>
-    <figcaption>Avisos, sugerencias, quejas y reclamaciones</figcaption></a>
+    <figcaption>AAvisos, sugerencias, quejas y reclamaciones</figcaption></a>
 </figure>
 
 </p>
