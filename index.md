@@ -24,9 +24,10 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
 <div id="todojunto">
 
   <figure class="imagen">
-  <a href="https://fempcatalogo.github.io/FEMPAGENDA"><img src="Iconos/agendamunicipal.png" alt="Agenda municipal" width="140" /></a>
-  <figcaption>Agenda Municipal</figcaption>
-</figure>
+  <a href="https://fempcatalogo.github.io/FEMPAGENDA"><img src="Iconos/agendamunicipal.png" alt="Agenda municipal" width="140" /></a>    
+    <figcaption>Agenda Municipal</figcaption>
+</figure>    
+
 
 
 <p float="right" align="center">
