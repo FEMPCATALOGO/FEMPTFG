@@ -26,28 +26,25 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
   <figure class="imagen">
   <a href="https://fempcatalogo.github.io/FEMPAGENDA"><img src="Iconos/agendamunicipal.png" alt="Agenda municipal alcaldía y personal directivo" width="50"/>  
     <figcaption>Agenda municipal alcaldía y personal directivo</figcaption></a>
-  <br>
 </figure>    
 
 
   <figure class="imagen">
     <a href="https://fempcatalogo.github.io/FEMPAGENDAACTIVIDADES"><img src="Iconos/agendaactividades.png" alt="Agenda" width="40"/> 
     <figcaption>Agenda de actividades y eventos</figcaption></a>
-   <br>
 </figure>    
 
 
   <figure class="imagen">
    <a href="https://fempcatalogo.github.io/FEMPAPARCAIENTOS"><img src="Iconos/aparcamientos.png" alt="Aparcamiento" width="40" />
     <figcaption>Aparcamientos públicos</figcaption></a>
-   <br>
 </figure>
 
 
 
 
 </p>
-
+   <br>   <br>   <br>
 
 <p float="right" align="center">
 
