@@ -35,6 +35,10 @@ h1{
   float: left;    
 }
 
+imagenOTROS{
+    width: 50%;
+}
+
 figure {
   float: center;
   width: 70%;
