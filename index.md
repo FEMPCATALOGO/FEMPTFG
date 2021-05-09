@@ -96,8 +96,7 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
 </figure>
 
 <figure class="imagen">
-<a href="https://fempcatalogo.github.io/FEMPEQUIPAMIENTO"><img src="Iconos/equipamiento.png" alt="Equipamientos" width="40"/>
-    <figcaption>Equipamientos municipales</figcaption></a>
+<a href="https://fempcatalogo.github.io/FEMPEQUIPAMIENTO"><img src="Iconos/equipamiento.png" alt="Equipamientos" width="35"/> <figcaption>Equipamientos municipales</figcaption></a>
 </figure>
 
 <figure class="imagen">
