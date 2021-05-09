@@ -370,14 +370,17 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
   </div>
   <div class="item2">
     <figure class="imagen">
+      <img src="" width="30"/>  
     </figure>
   </div>
   <div class="item3">    
     <figure class="imagen">
+      <img src="" width="30"/>  
     </figure>
   </div>
   <div class="item4">
     <figure class="imagen">
+      <img src="" width="30"/>  
     </figure>
   </div>
   
