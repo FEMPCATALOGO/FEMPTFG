@@ -267,13 +267,10 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
 </figure>
 
 
-
-
-
-
-<p float="right" align="center">
-  <a href="https://fempcatalogo.github.io/FEMPOTROS"> <img src="Iconos/otros.png" alt="OTROS" width="150" /></a> 
-</p>
+<figure class="imagen">
+<a href="https://fempcatalogo.github.io/FEMPOTROS"> <img src="Iconos/otros.png" alt="OTROS" width="100"/>
+    <figcaption>OTROS</figcaption></a>
+</figure>
 
 
 
@@ -341,6 +338,9 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
    <a href="https://fempcatalogo.github.io/FEMPRESIDUOS"><img src="Iconos/residuos.png" alt="GestionResiduos" width="120" /></a> &nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;
    <a href="https://fempcatalogo.github.io/FEMPFUENTES"> <img src="Iconos/fuentes.png" alt="FuentesAgua" width="140" /> </a> &nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;
    <a href="https://fempcatalogo.github.io/FEMPSANCIONES"> <img src="Iconos/sanciones.png" alt="SancionesMultas" width="150" /> </a> &nbsp;&nbsp; 
+</p>
+<p float="right" align="center">
+  <a href="https://fempcatalogo.github.io/FEMPOTROS"> <img src="Iconos/otros.png" alt="OTROS" width="150" /></a> 
 </p>
 -->
 
