@@ -16,8 +16,12 @@ h1{
    background-color: #f2f1f0; 
 }
 
+.imagen{    
+  float: left;    
+}
+
 figure {
-  float: left;
+  float: center;
   width: 20%;
   text-align: center;
   font-style: italic;
@@ -28,5 +32,5 @@ figure {
   padding: 0.5em;
 }
 img.scaled {
-  width: 100%;
+  width: 50%;
 }
