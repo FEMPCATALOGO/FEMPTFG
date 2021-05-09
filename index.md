@@ -23,63 +23,63 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
   
   <p float="right" align="center">
   
-  <div class="imagen">
+  <figure class="imagen">
   <a href="https://fempcatalogo.github.io/FEMPAGENDA"><img src="Iconos/agendamunicipal.png" alt="Agenda municipal alcaldía y personal directivo" width="50"/>  
     <figcaption>Agenda municipal alcaldía y personal directivo</figcaption></a>
   <br>
-</div>    
+</figure>    
 
 
-  <div class="imagen">
+  <figure class="imagen">
     <a href="https://fempcatalogo.github.io/FEMPAGENDAACTIVIDADES"><img src="Iconos/agendaactividades.png" alt="Agenda" width="40"/> 
     <figcaption>Agenda de actividades y eventos</figcaption></a>
    <br>
-</div>    
+</figure>    
 
 
-  <div class="imagen">
+  <figure class="imagen">
    <a href="https://fempcatalogo.github.io/FEMPAPARCAIENTOS"><img src="Iconos/aparcamientos.png" alt="Aparcamiento" width="40" />
     <figcaption>Aparcamientos públicos</figcaption></a>
    <br>
-</div>
+</figure>
 
 
-  <div class="imagen">
+  <figure class="imagen">
    <a href="https://fempcatalogo.github.io/FEMPAVISOS"><img src="Iconos/avisos.png" alt="Avisos" width="40"/>
     <figcaption>Avisos, sugerencias, quejas y reclamaciones</figcaption></a>
    <br>
-</div>
+</figure>
 
 </p>
 
 
 <p float="right" align="center">
 
-  <div class="imagen">
+  <figure class="imagen">
    <a href="https://fempcatalogo.github.io/FEMPBICICLETA"><img src="Iconos/bicicleta.png" alt="Bicicleta" width="50"/> 
     <figcaption>Bicicleta pública</figcaption></a>
    <br>
-</div>
+</figure>
 
 
-  <div class="imagen">
+  <figure class="imagen">
   <a href="https://fempcatalogo.github.io/FEMPCALIDADAIRE"><img src="Iconos/calidadaire.png" alt="Calidad aire" width="40"/>
     <figcaption>Calidad del aire</figcaption></a>
    <br>
-</div>
+</figure>
 
-  <div class="imagen">
+  <figure class="imagen">
   <a href="https://fempcatalogo.github.io/FEMPCALLEJERO"> <img src="Iconos/callejero.png" alt="Callejero oficial" width="35"/>
     <figcaption>Callejero oficial del Ayuntamiento</figcaption></a>
    <br>
-</div>
+</figure>
 
 
-  <div class="imagen">
+  <figure class="imagen">
   <a href="https://fempcatalogo.github.io/FEMPCENSO"> <img src="Iconos/censo.png" alt="Censo de locales" width="40"/>
     <figcaption>Censo de locales, actividades, terrazas de hostelería y restauración, y licencias de apertura</figcaption></a>
    <br>
-</div>
+</figure>
 
 </p>
 
