@@ -35,7 +35,7 @@ img.scaled {
   width: 100%;
 }
 
-img{
+.imagen img{
    background-color: white; 
     margin: 0em;
   padding: 2em;
