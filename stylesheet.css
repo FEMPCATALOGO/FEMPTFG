@@ -5,7 +5,6 @@ body{
 .grid-container {
   display: grid;
   grid-template-columns: auto auto auto auto;
-  grid-gap: 5px;
 }
 
 .grid-container > div {
