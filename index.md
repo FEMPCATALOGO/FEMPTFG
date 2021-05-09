@@ -362,10 +362,12 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
 </div>
 
  <div class="grid-container">
+  <div class="item1">
 <figure class="imagen">
 <a href="https://fempcatalogo.github.io/FEMPOTROS"> <img src="Iconos/otros.png" alt="OTROS" width="40"/>
     <figcaption>OTROS</figcaption></a>
 </figure>
+  </div>
   </div>
 
 
