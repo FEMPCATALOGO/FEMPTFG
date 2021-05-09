@@ -44,16 +44,18 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
 </figure>
 
 
-  <figure class="imagen">
-   <a href="https://fempcatalogo.github.io/FEMPAVISOS"><img src="Iconos/avisos.png" alt="Avisos" width="40"/>
-    <figcaption>Avisos, sugerencias, quejas y reclamaciones</figcaption></a>
-   <br>
-</figure>
+
 
 </p>
 
 
 <p float="right" align="center">
+
+  <figure class="imagen">
+   <a href="https://fempcatalogo.github.io/FEMPAVISOS"><img src="Iconos/avisos.png" alt="Avisos" width="40"/>
+    <figcaption>Avisos, sugerencias, quejas y reclamaciones</figcaption></a>
+   <br>
+</figure>
 
   <figure class="imagen">
    <a href="https://fempcatalogo.github.io/FEMPBICICLETA"><img src="Iconos/bicicleta.png" alt="Bicicleta" width="50"/> 
@@ -68,6 +70,10 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
    <br>
 </figure>
 
+
+</p>
+
+<p float="right" align="center">
   <figure class="imagen">
   <a href="https://fempcatalogo.github.io/FEMPCALLEJERO"> <img src="Iconos/callejero.png" alt="Callejero oficial" width="35"/>
     <figcaption>Callejero oficial del Ayuntamiento</figcaption></a>
@@ -80,7 +86,6 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
     <figcaption>Censo de locales, actividades, terrazas de hostelería y restauración, y licencias de apertura</figcaption></a>
    <br>
 </figure>
-
 </p>
 
 <p float="right" align="center">
