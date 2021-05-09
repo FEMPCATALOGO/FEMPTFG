@@ -369,11 +369,18 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
 </figure>
   </div>
   <div class="item2">
+    <figure class="imagen">
+    </figure>
   </div>
-  <div class="item3">
+  <div class="item3">    
+    <figure class="imagen">
+    </figure>
   </div>
   <div class="item4">
+    <figure class="imagen">
+    </figure>
   </div>
+  
   </div>
 
 
