@@ -368,17 +368,25 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
     <figcaption>OTROS</figcaption></a>
 </figure>
   </div>
-  <div class="item2">
-    <figure class="imagen">
-    </figure>
+ <div class="item2">
+<figure class="imagen">
+ <a href="https://fempcatalogo.github.io/FEMPRESIDUOS"><img src="Iconos/residuos.png" alt="GestionResiduos" width="40"/>
+    <figcaption>Gestión de residuos</figcaption></a>
+</figure>
   </div>
-  <div class="item3">    
-    <figure class="imagen">
-    </figure>
+
+ <div class="item3">
+<figure class="imagen">
+ <a href="https://fempcatalogo.github.io/FEMPFUENTES"> <img src="Iconos/fuentes.png" alt="FuentesAgua" width="40"/>
+    <figcaption>Fuente de agua de beber</figcaption></a>
+</figure>
   </div>
-  <div class="item4">
-    <figure class="imagen">
-    </figure>
+
+ <div class="item4">
+<figure class="imagen">
+ <a href="https://fempcatalogo.github.io/FEMPSANCIONES"> <img src="Iconos/sanciones.png" alt="SancionesMultas" width="40"/>
+    <figcaption>Sanciones y multas</figcaption></a>
+</figure>
   </div>
   
   </div>
