@@ -1,6 +1,3 @@
-body{    
-   background-color: #ececec;     
-}
 
 table{
     table-layout: fixed;
@@ -18,6 +15,7 @@ h1{
 }
 .todojunto{
    background-color: #ececec; 
+   width:100%
 }
 
 .imagen{    
