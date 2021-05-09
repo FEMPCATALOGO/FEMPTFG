@@ -3,22 +3,6 @@ body{
      
 }
 
-*{
-   box-sizing: border-box;   
-}
-
-.column {
-  float: left;
-  width: 30%;
-  padding: 2px;
-}
-
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
 
 table{
     table-layout: fixed;
