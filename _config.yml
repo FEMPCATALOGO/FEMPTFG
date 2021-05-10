@@ -1,15 +1,7 @@
 remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 #remote_theme: minimal-mistakes-jekyll
-layout: single
+layout: splash
 title: false
-plugins:
-  - jekyll-include-cache  
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  
 defaults:
   # _pages
   - scope:
@@ -19,6 +11,9 @@ defaults:
       layout: single
 sidebar:
   nav: "docs"
+
+atom_feed:
+  hide: true
 
       
 #remote_theme: minimal-mistakes-jekyll
