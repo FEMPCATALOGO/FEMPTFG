@@ -10,9 +10,10 @@ header:
   overlay_image: bicicleta.png
 excerpt: "Conjunto de datos clasificados segun los criterios de la Federación Española de Municipios y Provincias ."
 ---
+<head>
 <link href="stylesheet.css" rel="stylesheet"/>
 <link href="_data/navigation.yml" rel="external"/>
-
+</head>
 
 <body>
 
