@@ -12,17 +12,6 @@
 }
 
 
-table{
-    table-layout: fixed;
-    width: 250px;
-  font-size: 10px;
-}
-
-th, td {
-    width: 100px;
-    word-wrap: break-word;
-  font-size: 10px;
-}
 h1{
   color: #ff7f50;    
 }
@@ -103,6 +92,10 @@ header{
    background:url("Iconos/FEMPFoto.png");     
 }
 
+
+.headerC{
+    padding: 1.5em 0;   
+}
 
 
 
