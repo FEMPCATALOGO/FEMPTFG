@@ -8,16 +8,8 @@ color: black
 ---
 <head>
 <link href="stylesheet.css" rel="stylesheet"/>
-<link href="_data/navigation.yml" rel="external"/>
   
-  <div class="topnav">
-  <a class="active" href="#home">Home</a>
-  <a href="#news">News</a>
-  <a href="#contact">Contact</a>
-  <a href="#about">About</a>
-</div>
-
-<nav class="style-4">
+ <nav class="style-4">
 		<ul class="menu-4">
 		  <li class="current"><a href="#" data-hover="Home">Home</a></li>
 		  <li><a href="#" data-hover="About Us">About Us</a></li>
