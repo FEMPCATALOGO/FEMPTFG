@@ -13,6 +13,11 @@
     {% include head.html %}
     {% include head/custom.html %}
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+      .page__footer{
+       font-size: 15px; 
+      }
+    </style>
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
@@ -36,8 +41,7 @@
        <a href="https://datos.gob.es/es/documentacion/datos-abiertos-femp-2019-40-conjuntos-de-datos-publicar-por-las-entidades-locales">DATOS ABIERTOS FEMP</a>     
              <br>
         <i class="fa fa-creative-commons" aria-hidden="true"></i> <a href="https://docs.google.com/document/d/1FfWJP6wjsKchWTzrzL4KkjasgJaMUlRhbhP_jKsUNVU/edit?usp=sharing">ICONOS </a>
-     
-      <p float="right" align="center">
+<p float="right" align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/FEMP_%28logotipo%29.svg/590px-FEMP_%28logotipo%29.svg.png" alt="Logo FEMP" height="100" width="80"/>
  <img src="https://ciudadesabiertas.es/assets/img/cabiertas/gobEspana-logo.svg" alt="Logo Gobierno España" width="180"/>
 <img src="https://ciudadesabiertas.es/assets/img/cabiertas/red-logo.svg" alt="Logo red.es" width="130"/>
