@@ -15,7 +15,7 @@ classes: wide
 	<li class="left"><a href="https://github.com/opencitydata/" data-hover="Open City GitHub">Open City GitHub</a></li>
 </ul>
 	</nav>
-	<br><br><br>
+	<br><br>
 	<header>
 	<br>
 	<div class="headerC">
