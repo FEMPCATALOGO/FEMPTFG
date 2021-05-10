@@ -1,16 +1,6 @@
 remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 #remote_theme: minimal-mistakes-jekyll
 layout: splash
-title: false
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-sidebar:
-  nav: "docs"
 
 atom_feed:
   hide: true
