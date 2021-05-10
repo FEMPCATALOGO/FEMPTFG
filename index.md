@@ -13,11 +13,8 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
 <head>
 <link href="stylesheet.css" rel="stylesheet"/>
 <link href="_data/navigation.yml" rel="external"/>
-</head>
-
-
-<body>
-<div class="topnav">
+  
+  <div class="topnav">
   <a class="active" href="#home">Home</a>
   <a href="#news">News</a>
   <a href="#contact">Contact</a>
@@ -25,9 +22,14 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
 </div>
   
   <div class="container">
-   <img src="Iconos/FEMPFoto.png" alt="FEMP" style="width:100%;">
+   <img src="Iconos/FEMPFoto.png" alt="FEMP" style="width:100%; height:20%">
   <div class="bottom-left">Bottom Left</div>
   </div>
+  
+</head>
+
+
+<body>
 
 &nbsp;
 
