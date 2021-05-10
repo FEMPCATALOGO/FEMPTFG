@@ -81,7 +81,7 @@ a:active {
 }
 
 body{
- background-image:url("Iconos/FEMPFoto.png");   
+ background-image:url("Iconos/webb.png");   
 }
 
 
@@ -100,7 +100,7 @@ body{
 header{
    width:100%;
    height:auto;
-   background:url(Iconos/webb.png);     
+   background:url("Iconos/FEMPFoto.png");     
 }
 
 
