@@ -20,6 +20,17 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
   <a href="#contact">Contact</a>
   <a href="#about">About</a>
 </div>
+
+<nav class="style-4">
+		<ul class="menu-4">
+		  <li class="current"><a href="#" data-hover="Home">Home</a></li>
+		  <li><a href="#" data-hover="About Us">About Us</a></li>
+		  <li><a href="#" data-hover="Blog">Blog</a></li>
+		  <li><a href="#" data-hover="Services">Services</a></li>
+		  <li><a href="#" data-hover="Products">Products</a></li>
+		  <li><a href="#" data-hover="Contact">Contact</a></li>
+		</ul>
+	</nav>
   
   <div class="container">
    <img src="Iconos/FEMPFoto.png" alt="FEMP" style="width:100% height:50px; ">
