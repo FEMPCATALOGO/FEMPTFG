@@ -23,6 +23,11 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
   <a href="#contact">Contact</a>
   <a href="#about">About</a>
 </div>
+  
+  <div class="container">
+   <img src="Iconos/FEMPFoto.png" alt="FEMP" style="width:100%;">
+  <div class="bottom-left">Bottom Left</div>
+  </div>
 
 &nbsp;
 
