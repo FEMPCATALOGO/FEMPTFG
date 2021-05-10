@@ -9,15 +9,12 @@ color: black
 <head>
 <link href="stylesheet.css" rel="stylesheet"/>
   
- <nav class="style-4">
-		<ul class="menu-4">
-		  <li class="current"><a href="#" data-hover="Home">Home</a></li>
-		  <li><a href="#" data-hover="About Us">About Us</a></li>
-		  <li><a href="#" data-hover="Blog">Blog</a></li>
-		  <li><a href="#" data-hover="Services">Services</a></li>
-		  <li><a href="#" data-hover="Products">Products</a></li>
-		  <li><a href="#" data-hover="Contact">Contact</a></li>
-		</ul>
+  <nav class="style-4">
+<ul class="menu-4">
+	<li class="current"><a href="https://fempcatalogo.github.io/FEMPTFG/" data-hover="Vocabularios FEMP">Vocabularios FEMP</a></li>
+	<li><a href="http://vocab.linkeddata.es/datosabiertos/" data-hover="Open Data Cities">Open Data Cities</a></li>
+	<li><a href="https://github.com/opencitydata/" data-hover="Open City GitHub">Open City GitHub</a></li>
+</ul>
 	</nav>
   
   <div class="container">
