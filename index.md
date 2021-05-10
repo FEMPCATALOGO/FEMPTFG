@@ -5,10 +5,6 @@
 layout: splash
 title: Vocabularios FEMP
 color: black
-header:
-  overlay_color: "#ececec"
-  overlay_image: "Iconos/FEMPFoto.png"
-excerpt: "Conjunto de datos clasificados segun los criterios de la Federación Española de Municipios y Provincias ."
 ---
 <head>
 <link href="stylesheet.css" rel="stylesheet"/>
