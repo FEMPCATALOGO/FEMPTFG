@@ -15,6 +15,15 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
 <link href="_data/navigation.yml" rel="external"/>
 </head>
 
+
+<nav class="menu">
+  <ul>
+    <li><a href="#">Inicio</a></li>
+    <li><a href="#">Sobre nosotros</a></li>
+    <li><a href="#">Contacto</a></li>
+  </ul>
+</nav>
+
 <body>
 
 
