@@ -22,8 +22,8 @@ excerpt: "Conjunto de datos clasificados segun los criterios de la Federación E
 </div>
   
   <div class="container">
-   <img src="Iconos/FEMPFoto.png" alt="FEMP" style="width:100% height:20%; ">
-  <div class="bottom-left">Bottom Left</div>
+   <img src="Iconos/FEMPFoto.png" alt="FEMP" style="width:100% height:100px; ">
+  <div class="bottom-left">Vocabularios FEMP <br> Conjunto de datos clasificados segun los criterios de la Federación Española de Municipios y Provincias.</div>
   </div>
   
 </head>
