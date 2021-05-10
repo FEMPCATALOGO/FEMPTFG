@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
 title: Vocabularios FEMP
-title_color: black
+color: black
 header:
   overlay_color: "#ececec"
   overlay_image: "Iconos/FEMPFoto.png"
