@@ -18,8 +18,8 @@ classes: wide
 	<br><br>
 	<header>
 	<div class="headerC">
-		<h1>Vocabularios FEMP </h1>
-		<h2>Conjunto de datos clasificados segun los criterios de la Federación Española de Municipios y Provincias.</h2>
+		<h1 class="h1T">Vocabularios FEMP </h1>
+		<h2 class="h2T">Conjunto de datos clasificados segun los criterios de la Federación Española de Municipios y Provincias.</h2>
 	</div>
 	</header>
   
