@@ -6,7 +6,7 @@ layout: single
 author_profile: true 
 author:
   name   : "Agenda Municipal"
-  avatar : "img/agendamunicipal.png"
+  avatar : "/img/agendamunicipal.png"
   bio    : "Vocabulario para la representación de los datos sobre los eventos de la agenda municipal y sus participantes."
   links:
     - label: "Página web"
@@ -20,7 +20,7 @@ permalink: /agenda/
 ---
 
 <head>
-<link href="stylesheet.css" rel="stylesheet"/>
+<link href="/stylesheet.css" rel="stylesheet"/>
   
   <nav class="style-4">
 <ul class="menu-4">
