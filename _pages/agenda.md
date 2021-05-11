@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true 
-uthor:
+author:
   name   : "Agenda Municipal"
   avatar : "img/agendamunicipal.png"
   bio    : "Vocabulario para la representación de los datos sobre los eventos de la agenda municipal y sus participantes."
