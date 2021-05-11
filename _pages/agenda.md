@@ -4,7 +4,17 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true 
-title: false
+uthor:
+  name   : "Agenda Municipal"
+  avatar : "img/agendamunicipal.png"
+  bio    : "Vocabulario para la representación de los datos sobre los eventos de la agenda municipal y sus participantes."
+  links:
+    - label: "Página web"
+      icon: "fas fa-fw fa-link"
+      url: "http://vocab.ciudadesabiertas.es/def/sector-publico/agenda-municipal/index-es.html"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/CiudadesAbiertas/vocab-sector-publico-agenda-municipal"
 classes: wide
 permalink: /agenda/
 ---
