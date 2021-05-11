@@ -20,7 +20,7 @@ permalink: /agenda/
 ---
 
 <head>
-<link href="/stylesheet.css" rel="stylesheet"/>
+<link href="FEMPTFG/stylesheet.css.css" rel="stylesheet"/>
   
   <nav class="style-4">
 <ul class="menu-4">
