@@ -56,7 +56,7 @@ permalink: /agenda/
  
  
  &nbsp;
-  </div>
+</div>
 
  
 
