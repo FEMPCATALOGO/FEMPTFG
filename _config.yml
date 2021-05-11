@@ -23,6 +23,8 @@ defaults:
 sidebar:
   nav: "docs"
 
+include:
+  - "_pages"
 
       
 #remote_theme: minimal-mistakes-jekyll
