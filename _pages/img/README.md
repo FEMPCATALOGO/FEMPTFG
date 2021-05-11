@@ -1,1 +1,0 @@
-Iconos para los vocabularios
