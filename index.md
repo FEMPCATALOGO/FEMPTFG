@@ -36,7 +36,7 @@ classes: wide
   
    <div class="item1">
   <figure class="imagen">
-  <a href="/agenda/"><img src="Iconos/agendamunicipal.png" alt="Agenda municipal alcaldía y personal directivo" width="30"/>  
+  <a href="FEMP/agenda/"><img src="Iconos/agendamunicipal.png" alt="Agenda municipal alcaldía y personal directivo" width="30"/>  
     <figcaption>Agenda municipal alcaldía y personal directivo</figcaption></a>
 </figure>  
   </div>
