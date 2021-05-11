@@ -46,7 +46,7 @@ permalink: /agenda/
 
 &nbsp;
  
-
+<div class="T">
   
   
 | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
@@ -54,7 +54,7 @@ permalink: /agenda/
 | Sector público | Terminado | *[Página web](http://vocab.ciudadesabiertas.es/def/sector-publico/agenda-municipal/index-es.html)* *[Repositorio](https://github.com/CiudadesAbiertas/vocab-sector-publico-agenda-municipal)*  *[Requisitos](https://github.com/CiudadesAbiertas/vocab-sector-publico-agenda-municipal/blob/master/requirements/Requisitos%20-%20Agenda%20Municipal.xlsx)*  *[Webinar](https://www.youtube.com/watch?v=S9TlBIuy3Lc)* |  *[Generar issue](https://github.com/CiudadesAbiertas/vocab-sector-publico-agenda-municipal/wiki/Gesti%C3%B3n-de-issues)*   | Vocabulario para la representación de datos de la agenda municipal que comprende las reuniones de los órganos colegiados y las reuniones en general, actos y reuniones con los medios de comunicación que realiza el alcalde/sa, concejales, directivos y personal eventual con motivo del ejercicio de su cargo.  | 21/10/19 | esagm | rdf+xml   html   turtle | CC-BY  | es   en   |
  
  
-  
+  </div>
 
  
 
