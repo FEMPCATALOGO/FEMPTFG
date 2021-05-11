@@ -6,6 +6,7 @@ layout: single
 author_profile: true 
 title: false
 classes: wide
+permalink: /agenda/
 ---
 
 <head>
