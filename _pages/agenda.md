@@ -46,8 +46,7 @@ permalink: /agenda/
 
 &nbsp;
  
-<div class="T">
-  &nbsp;
+
   
 
 | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
@@ -56,7 +55,6 @@ permalink: /agenda/
  
  
  &nbsp;
-</div>
 
  
 
