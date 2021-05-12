@@ -11,6 +11,7 @@ author:
       url: "https://github.com/opencitydata/transporte-sanciones-multas-trafico"
 title: false
 classes: wide
+permalink: /sanciones/
 ---
 
 <head>
