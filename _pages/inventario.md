@@ -11,6 +11,7 @@ author:
       url: "https://github.com/opencitydata/vocab-sector-publico-inventario"
 title: false
 classes: wide
+permalink: /inventario/
 ---
 <head>
 <link href="/FEMPTFG/stylesheet.css" rel="stylesheet"/>
