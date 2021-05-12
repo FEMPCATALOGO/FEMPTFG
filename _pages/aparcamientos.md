@@ -14,10 +14,10 @@ author:
       url: "https://github.com/opencitydata/transporte-aparcamiento"
 ---
 
- <img src="/Iconos/constrA.png"/>
+
  
 <head>
-	 <img src="/Iconos/constrA.png"/>
+
 <link href="/FEMPTFG/stylesheet.css" rel="stylesheet"/>
   
   <nav class="style-4">
@@ -52,7 +52,7 @@ author:
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="/Iconos/constrA.png" alt="Construction" width="200"/>
+<img src="constrA.png" alt="Construction" width="200"/>
 </p>
 
   
