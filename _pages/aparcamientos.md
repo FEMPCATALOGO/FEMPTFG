@@ -27,11 +27,13 @@ author:
 </ul>
 	</nav>
 	<br><br>
-  
+ 
+ <img src="/Iconos/constrA.png"/>
+ 
 </head>
 
 
-<img src="/Iconos/constrA.png"/>
+
 
 
 <div id="bodyid">
