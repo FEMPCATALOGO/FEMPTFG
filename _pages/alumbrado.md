@@ -14,6 +14,7 @@ author:
       url: "https://github.com/opencitydata/urbanismo-infraestructuras-alumbrado-publico"
 title: false
 classes: wide
+permalink: /alumbrado/
 ---
 
 <head>
