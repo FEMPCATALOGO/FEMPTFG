@@ -11,6 +11,7 @@ author:
       url: "https://github.com/opencitydata/sociedad-bienestar-registro-asociaciones-fundaciones"
 title: false
 classes: wide
+permalink: /registro/
 ---
 
 <head>
