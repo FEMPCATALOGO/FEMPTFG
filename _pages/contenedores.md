@@ -11,6 +11,7 @@ author:
       url: "https://github.com/opencitydata/medio-ambiente-puntos-limpios-contenedores"
 title: false
 classes: wide
+permalink: /contenedores/
 ---
 <head>
 <link href="/FEMPTFG/stylesheet.css" rel="stylesheet"/>
