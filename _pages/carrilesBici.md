@@ -11,6 +11,7 @@ author:
       url: "https://github.com/opencitydata/transporte-bici-carriles"
 title: false
 classes: wide
+permalink: /carrilbici/
 ---
 
 <head>
