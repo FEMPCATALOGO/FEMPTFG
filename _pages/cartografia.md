@@ -11,6 +11,7 @@ author:
       url: "https://github.com/opencitydata/urbanismo-infraestructuras-cartografica"
 title: false
 classes: wide
+permalink: /cartografia/
 ---
 <head>
 <link href="/FEMPTFG/stylesheet.css" rel="stylesheet"/>
