@@ -14,6 +14,7 @@ author:
       url: "https://github.com/opencitydata/sociedad-bienestar-equipamientos-municipales"
 title: false
 classes: wide
+permalink: /equipamiento/
 ---
 <head>
 <link href="/FEMPTFG/stylesheet.css" rel="stylesheet"/>
