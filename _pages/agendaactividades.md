@@ -6,7 +6,7 @@ layout: single
 author_profile: true 
 author:
   name   : "Agenda cultural"
-  avatar : "img/agendaactividades.png"
+  avatar : "/Iconos/agendaactividades.png"
   bio    : "Vocabulario para la representación de eventos de una agenda cultural."
   links:
     - label: "Página web"
