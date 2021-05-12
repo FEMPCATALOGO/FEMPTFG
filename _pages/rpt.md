@@ -11,6 +11,7 @@ author:
       url: "https://github.com/opencitydata/vocab-sector-publico-rpt"
 title: false
 classes: wide
+permalink: /rpt/
 ---
 <head>
 <link href="/FEMPTFG/stylesheet.css" rel="stylesheet"/>
