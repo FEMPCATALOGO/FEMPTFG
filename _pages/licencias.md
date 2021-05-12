@@ -11,6 +11,7 @@ author:
       url: "https://github.com/opencitydata/urbanismo-infraestructuras-licencias-obra"
 title: false
 classes: wide
+permalink: /licencias/
 ---
 <head>
 <link href="/FEMPTFG/stylesheet.css" rel="stylesheet"/>
