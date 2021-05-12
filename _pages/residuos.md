@@ -11,6 +11,7 @@ author:
       url: "https://github.com/opencitydata/vocab-medio-ambiente-residuos"
 title: false
 classes: wide
+permalink: /residuos/
 ---
 
 <head>
