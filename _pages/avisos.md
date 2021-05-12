@@ -15,6 +15,7 @@ author:
 
 title: false
 classes: wide
+permalink: /avisos/
 ---
 
 <head>
