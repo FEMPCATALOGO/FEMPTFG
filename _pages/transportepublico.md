@@ -14,6 +14,7 @@ author:
       url: "https://github.com/opencitydata/transporte-transporte-publico"
 title: false
 classes: wide
+permalink: /transporte/
 ---
 <head>
 <link href="/FEMPTFG/stylesheet.css" rel="stylesheet"/>
