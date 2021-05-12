@@ -15,6 +15,7 @@ author:
 
 title: false
 classes: wide
+permalink: /convenios/
 ---
 <head>
 <link href="/FEMPTFG/stylesheet.css" rel="stylesheet"/>
