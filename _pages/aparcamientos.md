@@ -12,6 +12,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/opencitydata/transporte-aparcamiento"
+baseurl: fempcatalogo.github.io
 ---
 
 
@@ -47,7 +48,7 @@ author:
 
 &nbsp;
  
-<img src="/Iconos/agendamunicipal.png" alt="Agenda municipal alcaldía y personal directivo" width="30"/>  
+
 
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
