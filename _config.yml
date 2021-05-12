@@ -27,7 +27,7 @@ include:
   - "_pages"
   
 url: fempcatalogo.github.io
-baseurl:/FEMPTFG
+baseurl: /FEMPTFG
   
 
 
