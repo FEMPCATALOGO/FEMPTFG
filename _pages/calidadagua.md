@@ -11,6 +11,7 @@ author:
       url: "https://github.com/opencitydata/medio-ambiente-calidad-agua"
 title: false
 classes: wide
+permalink: /agua/
 ---
 
 <head>
