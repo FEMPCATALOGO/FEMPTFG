@@ -18,6 +18,7 @@ author:
 
 title: false
 classes: wide
+permalink: /bicicleta/
 ---
 
 
