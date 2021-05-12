@@ -11,6 +11,7 @@ author:
       url: "https://github.com/opencitydata/deporte-instalaciones"
 title: false
 classes: wide
+permalink: /instalacionesdeportiva/
 ---
 <head>
 <link href="/FEMPTFG/stylesheet.css" rel="stylesheet"/>
