@@ -1,0 +1,148 @@
+docs:
+  - title: Vocabularios Terminados
+    children:
+      - title: "CONTRATACIÓN PÚBLICA"
+        url: /#id1
+      - title: "EMISIONES"
+        url: /#id2
+      - title: "EMPLEO"
+        url: /#id3
+      - title: "AUTOBÚS"
+        url: /#id4
+      - title: "SUBVENCIONES Y AYUDAS"
+        url: /#id5
+      - title: "DIRECCIÓN POSTAL"
+        url: /#id6
+      - title: "TERRITORIO"
+        url: /#id7
+      - title: "ORGANISMOS"
+        url: /#id8
+      - title: "SERVICIO"
+        url: /#id9
+      - title: "ACCESIBILIDAD"
+        url: /#id11
+      - title: "TRANSPORTE PÚBLICO TARJETA"
+        url: /#id12
+      - title: "TRÁFICO TIEMPO REAL"
+        url: /#id13
+
+  - title: Vocabularios sin crear
+    children:
+      - title: "PARTICIPACIÓN CIUDADANA"
+        url: /#id10
+      - title: "PROTECCIÓN CIVIL"
+        url: /#id14
+      - title: "SEMÁFOROS"
+        url: /#id15
+      - title: "ZONAS MASCOTAS"
+        url: /#id16
+      - title: "SEÑALIZACIÓN VERTICAL"
+        url: /#id17
+      - title: "SISTEMA ARBITRAL DE CONSUMO"
+        url: /#id18
+      - title: "INSPECCIÓN TECNICA DE EDIFICIOS"
+        url: /#id19
+      - title: "VIVIENDAS DE PROTECCIÓN PÚBLICA"
+        url: /#id20     
+      - title: "ALQUILER DE VIVIENDAS PÚBLICAS"
+        url: /#id21
+      - title: "SECCIONES CENSALES, DISTRITOS Y BARRIOS"
+        url: /#id22    
+      - title: "OBRAS DE CONSERVACIÓN Y DE INFRAESTRUCTURAS"
+        url: /#id23
+      - title: "LICENCIAS DE TERRAZAS"
+        url: /#id24
+      - title: "ACTUACIONES URBANISTICAS"
+        url: /#id25
+      - title: "OFICINAS DE TURISMO O PUNTOS DE INFORMACIÓN"
+        url: /#id26
+      - title: "RESTRICCIONES A LA CIRCULACIÓN"
+        url: /#id27
+      - title: "PARQUES DE VEHÍCULOS"
+        url: /#id28
+      - title: "ESTACIONES COMBUSTIBLE"
+        url: /#id29
+      - title: "SEÑALIZACIÓN HORIZONTAL"
+        url: /#id30     
+      - title: "TRANSPORTE URBANO"
+        url: /#id31
+      - title: "APARCAMIENTO ZONAS REGULADAS"
+        url: /#id32       
+      - title: "ACCIDENTALIDAD TRÁFICO"
+        url: /#id33
+      - title: "ZONAS COLECTIVOS"
+        url: /#id34
+      - title: "SERVICIOS COLECTIVOS"
+        url: /#id35
+      - title: "QUIOSCOS"
+        url: /#id36
+      - title: "ACTOS"
+        url: /#id37
+      - title: "CENTROS SERVICIOS SOCIALES"
+        url: /#id38
+      - title: "ATENCIÓN SOCIAL"
+        url: /#id39
+      - title: "ALBERGUES CENTROS NOCHE"
+        url: /#id40     
+      - title: "CONTROL SEMÁFOROS"
+        url: /#id41
+      - title: "URGENCIAS"
+        url: /#id42          
+      - title: "BOMBEROS"
+        url: /#id43
+      - title: "PARTICIPACIÓN CIUDADANA"
+        url: /#id44
+      - title: "PUESTOS DE TRABAJO"
+        url: /#id45
+      - title: "NORMATIVA MUNICIPAL"
+        url: /#id46
+      - title: "DECLARACIONES COMPATIBLES"
+        url: /#id47
+      - title: "ENCOMIENDAS DE GESTIÓN"
+        url: /#id48
+      - title: "ARRENDAMIENTOS ALQUILERES"
+        url: /#id49
+      - title: "RUTAS ITINERARIOS"
+        url: /#id499      
+      - title: "PLAGAS y TRATAMIENTOS"
+        url: /#id50     
+      - title: "CENTROS SANITARIOS"
+        url: /#id51
+      - title: "PROTECCIÓN ANIMAL"
+        url: /#id52            
+      - title: "ÁREAS VERDES"
+        url: /#id53
+      - title: "NIVELES POLÍNICOS"
+        url: /#id54
+      - title: "CLIMATOLOGÍA"
+        url: /#id55
+      - title: "ARBOLADO"
+        url: /#id56
+      - title: "REGISTROS"
+        url: /#id57
+      - title: "POLIGONOS INDUSTRIALES"
+        url: /#id58
+      - title: "IMPUESTOS PERSONAS JURÍDICAS"
+        url: /#id59
+      - title: "IMPUESTOS"
+        url: /#id60      
+      - title: "ACTIVIDAD INSPECTORA"
+        url: /#id61     
+      - title: "CONSUMO"
+        url: /#id62
+      - title: "SALAS DE OCIO"
+        url: /#id63     
+      - title: "MUSEOS, GALERÍAS Y EXPOSICIONES"
+        url: /#id64
+      - title: "BIENES INMUEBLES"
+        url: /#id65      
+      - title: "BIBLIOTECAS: PRESTAMOS"
+        url: /#id66     
+      - title: "BIBLIOTECAS: CATÁLOGO DE LIBROS"
+        url: /#id67
+      - title: "BIBLIOTECAS"
+        url: /#id68   
+      - title: "MERCADILLOS"
+        url: /#id69
+      - title: "CATÁLOGO DE EMPRESAS"
+        url: /#id70           
