@@ -14,6 +14,7 @@ author:
       url: "https://github.com/opencitydata/cultura-ocio-lugares-interes"
 title: false
 classes: wide
+permalink: /lugarinteres/
 ---
 <head>
 <link href="/FEMPTFG/stylesheet.css" rel="stylesheet"/>
