@@ -11,6 +11,7 @@ author:
       url: "https://github.com/opencitydata/urbanismo-infraestructuras-fuentes-agua-potable"
 title: false
 classes: wide
+permalink: /fuentes/
 ---
 
 <head>
