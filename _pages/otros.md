@@ -195,8 +195,8 @@ permalink: /otros/
 | -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- |  -------- |  
 | Transporte | Terminado | *[Página web](http://vocab.linkeddata.es/datosabiertos/def/transporte/trafico-content/index.html)* *[Repositorio](https://github.com/opencitydata/transporte-trafico-tiempo-real)*  |  *[Generar issue](https://github.com/opencitydata/transporte-trafico-tiempo-real/issues)*   | Este repositorio contiene el material relacionado con el vocabulario que permite representar datos sobre la situación del tráfico en una ciudad.  | 18/05/2018  |  owl  json | CC-BY  | es  |
 
-HAY DIFERENCIA CON TRAFICO?
 &nbsp;
+
 
 
 
@@ -205,7 +205,7 @@ HAY DIFERENCIA CON TRAFICO?
    <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp;   
 
@@ -226,7 +226,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; 
  <a href="https://github.com/opencitydata/seguridad-policia-municipal-proteccion-civil"> README </a>
@@ -244,7 +244,7 @@ HAY DIFERENCIA CON TRAFICO?
 &nbsp;
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; 
  <a href="https://github.com/opencitydata/transporte-semaforos"> README </a>
@@ -261,7 +261,7 @@ HAY DIFERENCIA CON TRAFICO?
 &nbsp; 
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; 
  <a href="https://github.com/opencitydata/sociedad-bienestar-zonas-mascotas"> README </a>
@@ -278,7 +278,7 @@ HAY DIFERENCIA CON TRAFICO?
 &nbsp; 
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp;
  <a href="https://github.com/opencitydata/transporte-senializacion-vertical"> README </a>
@@ -296,7 +296,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp;
  <a href="https://github.com/opencitydata/comercio-empresas-sistema-arbitral-consumo"> README </a>
@@ -314,7 +314,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; 
  <a href="https://github.com/opencitydata/urbanismo-infraestructuras-inspeccion-edificios"> README </a>
@@ -332,7 +332,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; 
  <a href="https://github.com/opencitydata/vivienda-proteccion-publica"> README </a>
@@ -350,7 +350,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp;
  <a href="https://github.com/opencitydata/vivienda-alquileres"> README </a>
@@ -369,7 +369,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -390,7 +390,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -410,7 +410,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -431,7 +431,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -451,7 +451,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -472,7 +472,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -493,7 +493,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -513,7 +513,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -533,7 +533,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -553,7 +553,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -574,7 +574,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -595,7 +595,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -618,7 +618,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -639,7 +639,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -660,7 +660,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -680,7 +680,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -701,7 +701,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -721,7 +721,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -742,7 +742,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -764,7 +764,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -784,7 +784,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -805,7 +805,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -825,7 +825,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -847,7 +847,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -869,7 +869,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -889,7 +889,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -910,7 +910,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -930,7 +930,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -950,7 +950,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -970,7 +970,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -991,7 +991,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -1011,7 +1011,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -1031,7 +1031,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -1052,7 +1052,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -1072,7 +1072,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -1092,7 +1092,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -1112,7 +1112,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -1132,7 +1132,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -1152,7 +1152,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -1174,7 +1174,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -1196,7 +1196,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -1216,7 +1216,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -1237,7 +1237,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -1257,7 +1257,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -1278,7 +1278,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -1299,7 +1299,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -1319,7 +1319,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -1339,7 +1339,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -1362,7 +1362,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -1382,7 +1382,7 @@ HAY DIFERENCIA CON TRAFICO?
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 &nbsp; &nbsp;
 
@@ -1405,23 +1405,3 @@ HAY DIFERENCIA CON TRAFICO?
 
 
 
-
-
-
-
-<!--
-Más opciones:
- Recursos -> Estaciones, tiempo real, itinerarios, usuarios, usos
- Comentarios
- Valor de reutilización
- Complejidad
- Transoarencia
- Campos mínimos
- Tamaño de ciudad
- Frecuencua de actaulización mínima
- Afectado por normativa de protección de datos
- Histórico: forma de presentarlo
------------------
- el estado actual, links al repo en GitHub, links al roadmap, la posibilidad de subir issues, etc. Algo parecido a lo que solemos publicar en sitios como vocab.ciudadesabiertas.es, en vocab.linkeddata.es/datosabiertos/ o en sitios como w3id.org/devops-infra.
- -->
- 
