@@ -47,12 +47,12 @@ author:
 
 &nbsp;
  
-
+<img src="/Iconos/agendamunicipal.png" alt="Agenda municipal alcaldía y personal directivo" width="30"/>  
 
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="aparcamiento/assets/images/constrA.png" alt="Construction" width="200"/>
+<img src="/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 
   
