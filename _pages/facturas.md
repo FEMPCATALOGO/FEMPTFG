@@ -11,6 +11,7 @@ author:
       url: "https://github.com/opencitydata/sector-publico-facturas"
 title: false
 classes: wide
+permalink: /facturas/
 ---
 <head>
 <link href="/FEMPTFG/stylesheet.css" rel="stylesheet"/>
