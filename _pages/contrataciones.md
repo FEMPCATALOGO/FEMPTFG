@@ -12,6 +12,7 @@ author:
 
 title: false
 classes: wide
+permalink: /contrataciones/
 ---
 
 <head>
