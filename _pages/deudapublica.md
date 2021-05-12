@@ -14,6 +14,7 @@ author:
       url: "https://github.com/CiudadesAbiertas/vocab-economia-deuda-financiera"
 title: false
 classes: wide
+permalink: /deudapublica/
 ---
 <head>
 <link href="/FEMPTFG/stylesheet.css" rel="stylesheet"/>
