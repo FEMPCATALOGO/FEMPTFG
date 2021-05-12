@@ -1,6 +1,9 @@
 ---
 layout: single
 author_profile: true 
+title: false
+classes: wide
+permalink: /aparcamiento/
 author:
   name   : "Aparcamientos públicos"
   avatar : "/Iconos/aparcamientos.png"
@@ -9,9 +12,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/opencitydata/transporte-aparcamiento"
-title: false
-classes: wide
-permalink: /aparcamiento/
 ---
 
 
