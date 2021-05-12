@@ -31,7 +31,8 @@ classes: wide
 &nbsp;
 
 <div class="todojunto">
-  
+  <img src="/assets/images/constrA.png" alt="Construction" width="200"/>
+	
  <div class="grid-container">
   
    <div class="item1">
