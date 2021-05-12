@@ -52,7 +52,7 @@ author:
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="constrA.png" alt="Construction" width="200"/>
+<img src="/_pages/constrA.png" alt="Construction" width="200"/>
 </p>
 
   
