@@ -4,6 +4,17 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true 
+author:
+  name   : "Agenda cultural"
+  avatar : "img/agendaactividades.png"
+  bio    : "Vocabulario para la representación de eventos de una agenda cultural."
+  links:
+    - label: "Página web"
+      icon: "fas fa-fw fa-link"
+      url: "http://vocab.linkeddata.es/datosabiertos/def/cultura-ocio/agenda/index-en.html"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/opencitydata/cultura-ocio-agenda-eventos-actividades"
 title: false
 classes: wide
 ---
