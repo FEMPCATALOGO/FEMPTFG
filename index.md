@@ -344,35 +344,35 @@ classes: wide
   
    <div class="item1">
 <figure class="imagen">
- <a href="https://fempcatalogo.github.io/FEMPLICENCIAS"><img src="Iconos/licencias.png" alt="LicenciasUrbanisticas" width="40"/>
+ <a href="https://fempcatalogo.github.io/FEMPTFG/licencias/"><img src="Iconos/licencias.png" alt="LicenciasUrbanisticas" width="40"/>
     <figcaption>Licencias urbanísticas y de actividad de locales comerciales</figcaption></a>
 </figure>
   </div>
 
  <div class="item2">
 <figure class="imagen">
- <a href="https://fempcatalogo.github.io/FEMPRESIDUOS"><img src="Iconos/residuos.png" alt="GestionResiduos" width="40"/>
+ <a href="https://fempcatalogo.github.io/FEMPTFG/residuos/"><img src="Iconos/residuos.png" alt="GestionResiduos" width="40"/>
     <figcaption>Gestión de residuos</figcaption></a>
 </figure>
   </div>
 
  <div class="item3">
 <figure class="imagen">
- <a href="https://fempcatalogo.github.io/FEMPFUENTES"> <img src="Iconos/fuentes.png" alt="FuentesAgua" width="40"/>
+ <a href="https://fempcatalogo.github.io/FEMPTFG/fuentes/"> <img src="Iconos/fuentes.png" alt="FuentesAgua" width="40"/>
     <figcaption>Fuente de agua de beber</figcaption></a>
 </figure>
   </div>
 
  <div class="item4">
 <figure class="imagen">
- <a href="https://fempcatalogo.github.io/FEMPSANCIONES"> <img src="Iconos/sanciones.png" alt="SancionesMultas" width="40"/>
+ <a href="https://fempcatalogo.github.io/FEMPTFG/sanciones/"> <img src="Iconos/sanciones.png" alt="SancionesMultas" width="40"/>
     <figcaption>Sanciones y multas</figcaption></a>
 </figure>
   </div>
   
   <div class="item5">
 <figure class="imagen">
-<a href="https://fempcatalogo.github.io/FEMPOTROS"> <img src="Iconos/otros.png" alt="OTROS" width="40"/>
+<a href="https://fempcatalogo.github.io/FEMPTFG/otros/"> <img src="Iconos/otros.png" alt="OTROS" width="40"/>
     <figcaption>OTROS</figcaption></a>
 </figure>
   </div>
