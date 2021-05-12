@@ -6,7 +6,7 @@ classes: wide
 permalink: /aparcamiento/
 author:
   name   : "Aparcamientos públicos"
-  avatar : "/Iconos/constrA.png"
+  avatar : "/Iconos/aparcamientos.png"
   bio    : "Todo aparcamiento público, controlado o cerrado. Incluido el de residentes."
   links:
     - label: "GitHub"
@@ -31,7 +31,7 @@ author:
 </head>
 
 
-
+<img src="/Iconos/constrA.png"/>
 
 
 <div id="bodyid">
