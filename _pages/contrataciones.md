@@ -3,7 +3,7 @@ layout: single
 author_profile: true 
 author:
   name   : "Contrataciones"
-  avatar : "img/contrataciones.png"
+  avatar : "/Iconos/contrataciones.png"
   bio    : "Vocabulario para la representación de datos sobre el sistema de contratación pública."
   links:
     - label: "GitHub"
