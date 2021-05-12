@@ -12,7 +12,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/opencitydata/transporte-aparcamiento"
-baseurl: fempcatalogo.github.io
 ---
 
 
