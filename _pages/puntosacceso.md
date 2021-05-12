@@ -11,6 +11,7 @@ author:
       url: "https://github.com/opencitydata/infraestructuras-puntos-wifi"
 title: false
 classes: wide
+permalink: /puntoacceso/
 ---
 <head>
  <link href="/FEMPTFG/stylesheet.css" rel="stylesheet"/>
