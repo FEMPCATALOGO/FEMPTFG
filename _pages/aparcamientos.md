@@ -49,7 +49,7 @@ permalink: /aparcamiento/
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="img/constrA.png" alt="Construction" width="200"/>
+<img src="/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 
   
