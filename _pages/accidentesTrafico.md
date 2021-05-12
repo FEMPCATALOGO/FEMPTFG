@@ -11,6 +11,7 @@ author:
       url: "https://github.com/opencitydata/transporte-accidentalidad-trafico"
 title: false
 classes: wide
+permalink: /accidentes/
 ---
 <head>
 <link href="/FEMPTFG/stylesheet.css" rel="stylesheet"/>
