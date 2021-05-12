@@ -14,6 +14,7 @@ author:
       url: "https://github.com/opencitydata/turismo-alojamiento"
 title: false
 classes: wide
+permalink: /alojamiento/
 ---
 
 
