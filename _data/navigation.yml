@@ -2,7 +2,7 @@ docs:
   - title: Vocabularios Terminados
     children:
       - title: "CONTRATACIÓN PÚBLICA"
-        url: /#id1
+        url: /otros/#id1
       - title: "EMISIONES"
         url: /#id2
       - title: "EMPLEO"
