@@ -9,6 +9,7 @@ title: false
 classes: wide
 sidebar:
   nav: "docs"
+permalink: /otros/
 ---
 <head>
 <link href="/FEMPTFG/stylesheet.css" rel="stylesheet"/>
