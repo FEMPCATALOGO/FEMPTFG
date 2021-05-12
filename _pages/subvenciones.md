@@ -14,6 +14,7 @@ author:
       url: "https://github.com/opencitydata/vocab-sector-publico-subvenciones"
 title: false
 classes: wide
+permalink: /subvenciones/
 ---
 
 <head>
