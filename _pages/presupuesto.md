@@ -14,6 +14,7 @@ author:
       url: "https://github.com/opencitydata/hacienda-presupuesto"
 title: false
 classes: wide
+permalink: /presupuesto/
 ---
 <head>
 <link href="/FEMPTFG/stylesheet.css" rel="stylesheet"/>
