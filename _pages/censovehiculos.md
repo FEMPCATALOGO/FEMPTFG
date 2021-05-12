@@ -11,6 +11,7 @@ author:
       url: "https://github.com/opencitydata/vocab-transporte-censo-vehiculos"
 title: false
 classes: wide
+permalink: /censovehiculos/
 ---
 <head>
 <link href="/FEMPTFG/stylesheet.css" rel="stylesheet"/>
