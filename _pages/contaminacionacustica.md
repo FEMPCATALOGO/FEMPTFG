@@ -14,6 +14,7 @@ author:
       url: "https://github.com/CiudadesAbiertas/vocab-medio-ambiente-contaminacion-acustica"
 title: false
 classes: wide
+permalink: /contaminacionacustica/
 ---
 <head>
 <link href="/FEMPTFG/stylesheet.css" rel="stylesheet"/>
