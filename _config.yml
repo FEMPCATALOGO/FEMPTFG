@@ -25,6 +25,10 @@ sidebar:
 
 include:
   - "_pages"
+  
+url: fempcatalogo.github.io
+baseurl:/FEMPTFG
+  
 
 
 #remote_theme: minimal-mistakes-jekyll
