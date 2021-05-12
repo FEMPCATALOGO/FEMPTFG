@@ -14,6 +14,7 @@ author:
       url: "https://github.com/opencitydata/vocab-hacienda-censo-empresas"
 title: false
 classes: wide
+permalink: /censoempresa/
 ---
 
 <head>
