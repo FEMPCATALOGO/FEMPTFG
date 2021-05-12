@@ -31,8 +31,6 @@ classes: wide
 &nbsp;
 
 <div class="todojunto">
-  <img src="Iconos/constrA.png" alt="Construction" width="200"/>
-	<img src="Iconos/agendamunicipal.png" alt="Agenda municipal alcaldía y personal directivo" width="30"/> 
 	
  <div class="grid-container">
   
