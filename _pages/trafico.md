@@ -14,6 +14,7 @@ author:
       url: "https://github.com/opencitydata/vocab-transporte-trafico"
 title: false
 classes: wide
+permalink: /trafico/
 ---
 <head>
 <link href="/FEMPTFG/stylesheet.css" rel="stylesheet"/>
