@@ -14,6 +14,7 @@ author:
       url: "https://github.com/opencitydata/vocab-demografia-padron-municipal"
 title: false
 classes: wide
+permalink: /poblacion/
 ---
 <head>
 <link href="/FEMPTFG/stylesheet.css" rel="stylesheet"/>
