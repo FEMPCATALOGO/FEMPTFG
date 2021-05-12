@@ -6,7 +6,7 @@ classes: wide
 permalink: /aparcamiento/
 author:
   name   : "Aparcamientos públicos"
-  avatar : "/Iconos/aparcamientos.png"
+  avatar : "/Iconos/constrA.png"
   bio    : "Todo aparcamiento público, controlado o cerrado. Incluido el de residentes."
   links:
     - label: "GitHub"
@@ -49,7 +49,7 @@ author:
 <h2 float="right" align="center"> El vocabulario se encuentra en construcción </h2>
 
 <p float="right" align="center">   
-<img src="FEMPTFG/Iconos/constrA.png" alt="Construction" width="200"/>
+<img src="/Iconos/constrA.png" alt="Construction" width="200"/>
 </p>
 
   
