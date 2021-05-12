@@ -14,6 +14,7 @@ author:
       url: "https://github.com/opencitydata/vocab-comercio-censo-locales"
 title: false
 classes: wide
+permalink: /censolocales/
 ---
 <head>
 <link href="/FEMPTFG/stylesheet.css" rel="stylesheet"/>
