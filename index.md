@@ -31,7 +31,7 @@ classes: wide
 <div class="todojunto">	
 	<div class="container">
 	 <div class="row">		 
-  		<div class="col-sm">
+  		<div class="col-6 col-md-4">
 			    <div class="item1">
 			  <figure class="imagen">	  
 			  <a href="https://fempcatalogo.github.io/FEMPTFG/agenda/">
@@ -40,7 +40,7 @@ classes: wide
 			</figure>  
 		  </div>
 		</div> 
-		  <div class="col-sm">
+		 <div class="col-6 col-md-4">
 			 <div class="item2">
 			  <figure class="imagen">
 			    <a href="https://fempcatalogo.github.io/FEMPTFG/agendaactividades/"><img src="Iconos/agendaactividades.png" alt="Agenda" width="20"/> 
@@ -48,7 +48,7 @@ classes: wide
 			</figure> 
 			  </div>
 		 </div>
-		<div class="col-sm">
+		<div class="col-6 col-md-4">
 			 <div class="item3">
 			  <figure class="imagen">
 			   <a href="https://fempcatalogo.github.io/FEMPTFG/aparcamiento/"><img src="Iconos/aparcamientos.png" alt="Aparcamiento" width="20" />
@@ -56,7 +56,7 @@ classes: wide
 			</figure>
 			  </div>
 		 </div>		 
-		 <div class="col-sm">
+		 <div class="col-6 col-md-4">
 			  <div class="item4">
 			  <figure class="imagen">
 			   <a href="https://fempcatalogo.github.io/FEMPTFG/avisos/"><img src="Iconos/avisos.png" alt="Avisos" width="20"/>
