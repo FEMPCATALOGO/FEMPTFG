@@ -68,8 +68,7 @@ classes: wide
 	</div>
 
 
- <div class="grid-container">
-
+<div class="col-6 col-md-4">
  <div class="item1">
   <figure class="imagen">
    <a href="https://fempcatalogo.github.io/FEMPTFG/bicicleta/"><img src="Iconos/bicicleta.png" alt="Bicicleta" width="50"/> 
@@ -77,8 +76,10 @@ classes: wide
    <br>
 </figure>
   </div>
+	</div>
+	
 
-
+<div class="col-6 col-md-4">
  <div class="item2">
   <figure class="imagen">
   <a href="https://fempcatalogo.github.io/FEMPTFG/calidadaire/"><img src="Iconos/calidadaire.png" alt="Calidad aire" width="40"/>
@@ -86,8 +87,9 @@ classes: wide
    <br>
 </figure>
   </div>
+	</div>
 
-
+<div class="col-6 col-md-4">
  <div class="item3">
   <figure class="imagen">
   <a href="https://fempcatalogo.github.io/FEMPTFG/callejero/"> <img src="Iconos/callejero.png" alt="Callejero oficial" width="35"/>
@@ -95,7 +97,9 @@ classes: wide
    <br>
 </figure>
   </div>
+	</div>
 
+	<div class="col-6 col-md-4">
  <div class="item4">
   <figure class="imagen">
   <a href="https://fempcatalogo.github.io/FEMPTFG/censolocales/"> <img src="Iconos/censo.png" alt="Censo de locales" width="40"/>
@@ -103,78 +107,87 @@ classes: wide
    <br>
 </figure>
   </div>
+	</div>
   
-</div>
 
 
- <div class="grid-container">
-  
+  <div class="col-6 col-md-4">
    <div class="item1">
  <figure class="imagen">
  <a href="https://fempcatalogo.github.io/FEMPTFG/contaminacionacustica/"><img src="Iconos/contaminacion.png" alt="Contaminación" width="50"/>
     <figcaption>Contaminación acústica</figcaption></a>
 </figure>
   </div>
+	</div>
 
+	<div class="col-6 col-md-4">
  <div class="item2">
  <figure class="imagen">
  <a href="https://fempcatalogo.github.io/FEMPTFG/contrataciones/"><img src="Iconos/contrataciones.png" alt="Contrataciones" width="50"/>
     <figcaption>Contrataciones, licitaciones y proveedores de servicios municipales</figcaption></a>
 </figure>
   </div>
+	</div>
 
+	<div class="col-6 col-md-4">
  <div class="item3">
  <figure class="imagen">
 <a href="https://fempcatalogo.github.io/FEMPTFG/convenios/"> <img src="Iconos/convenios.png" alt="Convenios" width="50"/>
     <figcaption>Convenios</figcaption></a>
 </figure>
   </div>
+	</div>
 
+	<div class="col-6 col-md-4">
   <div class="item4">
 <figure class="imagen">
 <a href="https://fempcatalogo.github.io/FEMPTFG/deudapublica/"> <img src="Iconos/deuda.png" alt="Deuda" width="40"/>
     <figcaption>Deuda pública del ayuntamiento</figcaption></a>
 </figure>
   </div>
-
-</div>
-
+	</div>
 
 
- <div class="grid-container">
-  
+
+
+  <div class="col-6 col-md-4">
    <div class="item1">
 <figure class="imagen">
 <a href="https://fempcatalogo.github.io/FEMPTFG/equipamiento/"><img src="Iconos/equipamiento.png" alt="Equipamientos" width="35"/> <figcaption>Equipamientos municipales</figcaption></a>
 </figure>
   </div>
+	</div>
 
+	<div class="col-6 col-md-4">
  <div class="item2">
 <figure class="imagen">
 <a href="https://fempcatalogo.github.io/FEMPTFG/trafico/"><img src="Iconos/trafico.png" alt="Trafico" width="40"/>
     <figcaption>Tráfico</figcaption></a>
 </figure>
 </div>
+	</div>
 
+	<div class="col-6 col-md-4">
  <div class="item3">
  <figure class="imagen">
  <a href="https://fempcatalogo.github.io/FEMPTFG/instalacionesdeportiva/"> <img src="Iconos/deporte.png" alt="InstalacionesDeportivas" width="50"/>
     <figcaption>Instalaciones deportivas</figcaption></a>
 </figure>
   </div>
+	</div>
 
+	<div class="col-6 col-md-4">
  <div class="item4">
  <figure class="imagen">
 <a href="https://fempcatalogo.github.io/FEMPTFG/lugarinteres/"> <img src="Iconos/lugar.png" alt="LugarInteres" width="50"/>
     <figcaption>Lugar de interés turístico</figcaption></a>
 </figure>
   </div>
-
-</div>
-
+	</div>
 
 
- <div class="grid-container">
+
+
 
  <div class="item1">
  <figure class="imagen">
@@ -204,11 +217,9 @@ classes: wide
 </figure>
   </div>
 
-</div>
 
 
 
- <div class="grid-container">
 
  <div class="item1">
 <figure class="imagen">
@@ -239,11 +250,7 @@ classes: wide
 </figure>
   </div>
 
-</div>
 
-
-
- <div class="grid-container">
 
  <div class="item1">
 <figure class="imagen">
@@ -273,10 +280,7 @@ classes: wide
 </figure>
   </div>
 
-</div>
 
-
- <div class="grid-container">
 
  <div class="item1">
 <figure class="imagen">
@@ -306,10 +310,7 @@ classes: wide
 </figure>
   </div>
   
-</div>
 
-
- <div class="grid-container">
 
  <div class="item1">
 <figure class="imagen">
@@ -340,9 +341,7 @@ classes: wide
 </figure>
   </div>
   
-</div>
 
- <div class="grid-container">
   
    <div class="item1">
 <figure class="imagen">
@@ -379,7 +378,7 @@ classes: wide
 </figure>
   </div>
 
-</div>
+	</div>
 
 
 
