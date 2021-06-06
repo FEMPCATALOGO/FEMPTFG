@@ -1,7 +1,4 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
 classes: wide
 ---
@@ -22,7 +19,7 @@ classes: wide
 		<h2 class="h2T">Conjunto de datos clasificados segun los criterios de la Federación Española de Municipios y Provincias.</h2>
 	</div>
 	</header>
-  
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
 
