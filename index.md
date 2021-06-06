@@ -37,11 +37,7 @@ classes: wide
    <div class="item1">
   <figure class="imagen">	  
   <a href="https://fempcatalogo.github.io/FEMPTFG/agenda/">
-	  	  <picture>
-  <source media="(max-width: 799px)">
-  <source media="(min-width: 800px)">
-  <img src="Iconos/agendamunicipal.png" alt="Agenda municipal alcaldía y personal directivo" width="30" width= "100%" max-width= "30px" height=auto/>
-</picture>	  
+  <img src="Iconos/agendamunicipal.png" alt="Agenda municipal alcaldía y personal directivo" width="30" width= "100%" max-width= "30px" height=auto/>	  
     <figcaption>Agenda municipal alcaldía y personal directivo</figcaption></a>
 </figure>  
   </div>
