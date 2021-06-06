@@ -4,6 +4,7 @@ classes: wide
 ---
 <head>
 <link href="stylesheet.css" rel="stylesheet"/>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   
   <nav class="style-4">
 <ul class="menu-4">
@@ -29,41 +30,34 @@ classes: wide
 
 <div class="todojunto">
 	
- <div class="grid-container">
-  
-	 <div class="row">
-		 
-		 
-  	<div class="col-sm">
-		    <div class="item1">
-		  <figure class="imagen">	  
-		  <a href="https://fempcatalogo.github.io/FEMPTFG/agenda/">
-		  <img src="Iconos/agendamunicipal.png" alt="Agenda municipal alcaldía y personal directivo" width="30" width= "100%" max-width= "30px" height=auto/>	  
-		    <figcaption>Agenda municipal alcaldía y personal directivo</figcaption></a>
-		</figure>  
+ <div class="grid-container">  
+	 <div class="row">		 
+  		<div class="col-sm">
+			    <div class="item1">
+			  <figure class="imagen">	  
+			  <a href="https://fempcatalogo.github.io/FEMPTFG/agenda/">
+			  <img src="Iconos/agendamunicipal.png" alt="Agenda municipal alcaldía y personal directivo" width="30" width= "100%" max-width= "30px" height=auto/>	 
+			    <figcaption>Agenda municipal alcaldía y personal directivo</figcaption></a>
+			</figure>  
 		  </div>
-	</div>
- 
-	  <div class="col-sm">
-		 <div class="item2">
-		  <figure class="imagen">
-		    <a href="https://fempcatalogo.github.io/FEMPTFG/agendaactividades/"><img src="Iconos/agendaactividades.png" alt="Agenda" width="20"/> 
-		    <figcaption>Agenda de actividades y eventos</figcaption></a>
-		</figure> 
-		  </div>
-	 </div>
-
-		 <div class="col-sm">
+		</div> 
+		  <div class="col-sm">
+			 <div class="item2">
+			  <figure class="imagen">
+			    <a href="https://fempcatalogo.github.io/FEMPTFG/agendaactividades/"><img src="Iconos/agendaactividades.png" alt="Agenda" width="20"/> 
+			    <figcaption>Agenda de actividades y eventos</figcaption></a>
+			</figure> 
+			  </div>
+		 </div>
+		<div class="col-sm">
 			 <div class="item3">
 			  <figure class="imagen">
 			   <a href="https://fempcatalogo.github.io/FEMPTFG/aparcamiento/"><img src="Iconos/aparcamientos.png" alt="Aparcamiento" width="20" />
 			    <figcaption>Aparcamientos públicos</figcaption></a>
 			</figure>
 			  </div>
-		 </div>
-		 
+		 </div>		 
 		 <div class="col-sm">
-
 			  <div class="item4">
 			  <figure class="imagen">
 			   <a href="https://fempcatalogo.github.io/FEMPTFG/avisos/"><img src="Iconos/avisos.png" alt="Avisos" width="20"/>
@@ -71,7 +65,6 @@ classes: wide
 			</figure>
 			  </div>
 		 </div>
-
 	 </div>
 </div>
 
