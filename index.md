@@ -31,32 +31,32 @@ classes: wide
 <div class="todojunto">	
 	<div class="container">
 	 <div class="row">		 
-  		<div class="col-6 col-md-4">
+  		<div class="col-6 col-md-3">
 			  <figure class="imagen">	  
 			  <a href="https://fempcatalogo.github.io/FEMPTFG/agenda/">
 			  <img src="Iconos/agendamunicipal.png" alt="Agenda municipal alcaldía y personal directivo" width="30"/>	 
 			    <figcaption>Agenda municipal alcaldía y personal directivo</figcaption></a>
 			</figure>  
 		</div> 
-		 <div class="col-6 col-md-4">
+		 <div class="col-6 col-md-3">
 			  <figure class="imagen">
 			    <a href="https://fempcatalogo.github.io/FEMPTFG/agendaactividades/"><img src="Iconos/agendaactividades.png" alt="Agenda" width="20"/> 
 			    <figcaption>Agenda de actividades y eventos</figcaption></a>
 			</figure> 
 		 </div>
-		<div class="col-6 col-md-4">
+		<div class="col-6 col-md-3">
 			  <figure class="imagen">
 			   <a href="https://fempcatalogo.github.io/FEMPTFG/aparcamiento/"><img src="Iconos/aparcamientos.png" alt="Aparcamiento" width="20" />
 			    <figcaption>Aparcamientos públicos</figcaption></a>
 			</figure>
 		 </div>		 
-		 <div class="col-6 col-md-4">
+		 <div class="col-6 col-md-3">
 			  <figure class="imagen">
 			   <a href="https://fempcatalogo.github.io/FEMPTFG/avisos/"><img src="Iconos/avisos.png" alt="Avisos" width="20"/>
 			     <figcaption>Avisos, sugerencias, quejas y reclamaciones</figcaption></a>
 			</figure>
 		 </div>
-<div class="col-6 col-md-4">
+<div class="col-6 col-md-3">
   <figure class="imagen">
    <a href="https://fempcatalogo.github.io/FEMPTFG/bicicleta/"><img src="Iconos/bicicleta.png" alt="Bicicleta" width="50"/> 
     <figcaption>Bicicleta pública</figcaption></a>
@@ -65,7 +65,7 @@ classes: wide
 </div>
 	
 
-<div class="col-6 col-md-4">
+<div class="col-6 col-md-3">
   <figure class="imagen">
   <a href="https://fempcatalogo.github.io/FEMPTFG/calidadaire/"><img src="Iconos/calidadaire.png" alt="Calidad aire" width="40"/>
     <figcaption>Calidad del aire</figcaption></a>
@@ -73,7 +73,7 @@ classes: wide
 </figure>
 	</div>
 
-<div class="col-6 col-md-4">
+<div class="col-6 col-md-3">
   <figure class="imagen">
   <a href="https://fempcatalogo.github.io/FEMPTFG/callejero/"> <img src="Iconos/callejero.png" alt="Callejero oficial" width="35"/>
     <figcaption>Callejero oficial del Ayuntamiento</figcaption></a>
@@ -81,14 +81,14 @@ classes: wide
 </figure>
 </div>
 
-<div class="col-6 col-md-4">
+<div class="col-6 col-md-3">
   <figure class="imagen">
   <a href="https://fempcatalogo.github.io/FEMPTFG/censolocales/"> <img src="Iconos/censo.png" alt="Censo de locales" width="40"/>
     <figcaption>Censo de locales, actividades, terrazas de hostelería y restauración, y licencias de apertura</figcaption></a>
    <br>
 </figure>
 </div>
- <div class="col-6 col-md-4">
+ <div class="col-6 col-md-3">
    <div class="item1">
  <figure class="imagen">
  <a href="https://fempcatalogo.github.io/FEMPTFG/contaminacionacustica/"><img src="Iconos/contaminacion.png" alt="Contaminación" width="50"/>
