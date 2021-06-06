@@ -40,7 +40,7 @@ classes: wide
 	  	  <picture>
   <source media="(max-width: 799px)">
   <source media="(min-width: 800px)">
-  <img src="Iconos/agendamunicipal.png" alt="Agenda municipal alcaldía y personal directivo"/>
+  <img src="Iconos/agendamunicipal.png" alt="Agenda municipal alcaldía y personal directivo" width="30" width= "100%" max-width= "30px" height=auto/>
 </picture>	  
     <figcaption>Agenda municipal alcaldía y personal directivo</figcaption></a>
 </figure>  
