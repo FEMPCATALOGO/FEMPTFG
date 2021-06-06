@@ -30,7 +30,6 @@ classes: wide
 
 <div class="todojunto">
 	
- <div class="grid-container">  
 	 <div class="row">		 
   		<div class="col-sm">
 			    <div class="item1">
@@ -65,7 +64,6 @@ classes: wide
 			</figure>
 			  </div>
 		 </div>
-	 </div>
 </div>
 
 
