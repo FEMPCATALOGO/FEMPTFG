@@ -28,8 +28,7 @@ classes: wide
 <br><br>
 &nbsp;
 
-<div class="todojunto">
-	
+<div class="todojunto">	
 	 <div class="row">		 
   		<div class="col-sm">
 			    <div class="item1">
